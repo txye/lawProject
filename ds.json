@@ -32,7 +32,7 @@
                                     {"info": "2"},
                                     {
                                         "name": "是精神病人",
-                                        "logic": "or",
+                                        "logic": "and",
                                         "conditions":
                                         [
                                             {"info": "0"},

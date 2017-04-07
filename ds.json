@@ -1,0 +1,50 @@
+{
+    "target": "盗窃罪",
+
+    "info-list": {
+        "0": "他可辨认自己行为",
+        "1": "经法定程序鉴定确认为精神病",
+        "2": "不是精神病人",
+        "3": "满16周岁"
+    },
+
+    "sin": {
+        "name" : "盗窃罪",
+        "logic" : "and",
+        "conditions":
+        [
+            {
+                "name": "主体",
+                "logic": "and",
+                "conditions":
+                [
+                    {
+                        "name": "达到刑事责任年龄",
+                        "logic": "and",
+                        "conditions":
+                        [
+                            {"info": "3"},
+                            {
+                                "name": "不属于精神病人犯罪不负刑事责任的情形",
+                                "logic": "or",
+                                "conditions":
+                                [
+                                    {"info": "2"},
+                                    {
+                                        "name": "是精神病人",
+                                        "logic": "and",
+                                        "conditions":
+                                        [
+                                            {"info": "0"},
+                                            {"info": "1"}
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

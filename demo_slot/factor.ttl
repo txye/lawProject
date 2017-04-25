@@ -1,0 +1,1155 @@
+<http://classiclaw.com/resource/FACTOR-b09edb5f143a95dd28a37af282eed377>
+	Law:要件名 "客体及客观方面" ;
+	Law:要件级别 "1" .
+
+
+<http://classiclaw.com/resource/FACTOR-3ad6c23adb7daeace14c075f62645f53>
+	Law:要件名 "主体" ;
+	Law:要件级别 "1" .
+
+
+<http://classiclaw.com/resource/FACTOR-8cc24c40fdb3414f7750682095667541>
+	Law:要件名 "主观方面" ;
+	Law:要件级别 "1" .
+
+
+<http://classiclaw.com/resource/FACTOR-b7325eb0f212dccd923da7939ba3359a>
+	Law:要件名 "排除犯罪事由" ;
+	Law:要件级别 "1" .
+
+
+<http://classiclaw.com/resource/FACTOR-2159fb48fae0d5076a246562619f766e>
+	Law:要件名 "普通盗窃行为" ;
+	Law:要件级别 "2" .
+
+
+<http://classiclaw.com/resource/FACTOR-c5427de05a5c2f8f388624e6a67a635e>
+	Law:要件名 "特殊盗窃行为" ;
+	Law:要件级别 "2" .
+
+
+<http://classiclaw.com/resource/FACTOR-58d13baad2ca6193df67006a419785b8>
+	Law:要件名 "特殊客体盗窃行为" ;
+	Law:要件级别 "2" .
+
+
+<http://classiclaw.com/resource/FACTOR-f3a1912898e55a3703d1cba511f3d7e6>
+	Law:要件名 "特殊盗窃共犯行为" ;
+	Law:要件级别 "2" .
+
+
+<http://classiclaw.com/resource/FACTOR-77d7bb5ae9a817094027d2c605f4af47>
+	Law:要件名 "达到刑事责任年龄" ;
+	Law:要件级别 "2" .
+
+
+<http://classiclaw.com/resource/FACTOR-b44edf322f14d090ee1a7268e896d0e4>
+	Law:要件名 "有刑事责任能力" ;
+	Law:要件级别 "2" .
+
+
+<http://classiclaw.com/resource/FACTOR-f71cd49296df91dc3d65600c81ab0c79>
+	Law:要件名 "以非法占有为目的" ;
+	Law:要件级别 "2" .
+
+
+<http://classiclaw.com/resource/FACTOR-791292c2d0e36af2f4ed5c44c9abb957>
+	Law:要件名 "盗窃故意" ;
+	Law:要件级别 "2" .
+
+
+<http://classiclaw.com/resource/FACTOR-7fa63d155decd1ea2ab17f994bb5a407>
+	Law:要件名 "正当防卫" ;
+	Law:要件级别 "2" .
+
+
+<http://classiclaw.com/resource/FACTOR-fd15235b761ac8d46f40ab9ca026895c>
+	Law:要件名 "紧急避险" ;
+	Law:要件级别 "2" .
+
+
+<http://classiclaw.com/resource/FACTOR-aa467c4bebf3bf680dcc03567071ea03>
+	Law:要件名 "偷拿家庭成员或者近亲属的财物且获得谅解" ;
+	Law:要件级别 "2" .
+
+
+<http://classiclaw.com/resource/FACTOR-ec36900aea8f93c0373aba4eabd0953b>
+	Law:要件名 "其他可以不认为是犯罪的情形" ;
+	Law:要件级别 "2" .
+
+
+<http://classiclaw.com/resource/FACTOR-5ac4e2a050a83dc955010763b7db9be3>
+	Law:要件名 "窃取公私财物数额较大及以上既遂" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-f0d1128cb7add02d5934f34a43e99445>
+	Law:要件名 "窃取公私财物数额巨大及以上未遂" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-9c270b390e790a3e6b7a2119fc0afa09>
+	Law:要件名 "多次盗窃" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-32a39a01322821a79491ee6d92deff25>
+	Law:要件名 "入户盗窃" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-3c893ae0c1be7db1e08fe70eba2ab401>
+	Law:要件名 "携带凶器盗窃" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-5d465bce13334a20ff24f84470cc4dcb>
+	Law:要件名 "扒窃" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-6b6a2f3b2b75e5fecef73d355968d0a5>
+	Law:要件名 "偷开机动车" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-762af44b4c14008210ac9d249fe23afd>
+	Law:要件名 "盗窃石油、天然气" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-94d1359fa11a8b233d9efd3b4161c795>
+	Law:要件名 "盗窃电力设备" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-90eb992827372d5c52923a4def1f3fd5>
+	Law:要件名 "盗窃并使用信用卡" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-927214da912ab240dd09bccfb3eb9c52>
+	Law:要件名 "盗窃发票" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-fe7a58004dfde701b14de426731df5e1>
+	Law:要件名 "电信盗窃" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-f093f254177101a4b0df0fc951fb1672>
+	Law:要件名 "盗窃正在使用的广播电视设施" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-18e2ec76dd09aefdf83a3b2642edd7a9>
+	Law:要件名 "盗窃毒品等违禁品" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-3b637dcf4837eb893f8d2db874583a87>
+	Law:要件名 "盗窃森林资源" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-bc92110bfdc44270093fe5e8882ddea6>
+	Law:要件名 "邮政工作人员盗窃邮件中财物" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-2eaf1444d7e67ba539b96d9f90943eb9>
+	Law:要件名 "事先与盗窃犯罪分子通谋,明知是盗窃、抢劫、诈骗、抢夺的机动车,实施特定行为" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-5245d07ae14648e3a3c42c3236c882d9>
+	Law:要件名 "事先与盗窃犯罪分子通谋,国家机关工作人员滥用职权,有特定情形,致使盗窃、抢劫、诈骗、抢夺的机动车被办理登记手续,数量达到三辆以上或者价值总额达到三十万元以上" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-d128cf069f633cfe37e6de9f76ff3a43>
+	Law:要件名 "事先与盗窃犯罪分子通谋,伪造、变造、买卖机动车行驶证、登记证书,累计三本以上" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-441c61c34acc1f3afc521f71740aa9d3>
+	Law:要件名 "事前与盗窃犯罪分子通谋,掩饰、隐瞒犯罪所得及其产生的收益" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-abfa59617d5916704bb65b5a7fc4a75b>
+	Law:要件名 "不是精神病人" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-99ab4aaaa63c3432a8af06d5ed060b30>
+	Law:要件名 "尚未完全丧失辨认或者控制自己行为能力的精神病人" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-6306de27746c891034b60b52f61de212>
+	Law:要件名 "偷拿家庭成员或者近亲属的财物" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-9a9875d34142accece69caac906059cb>
+	Law:要件名 "家庭成员或者近亲属谅解" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-23fe9feebedc83f7084c33c46ad5ff0b>
+	Law:要件名 "已满十六周岁未超过十八周岁" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-bda7b6e1fa59093884c311a99d2680ce>
+	Law:要件名 "具有特殊情况" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-a675043958e6f8fc58d00c1155185be2>
+	Law:要件名 "窃取公私财物数额较大以上且既遂" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-ddde1f421f7b32d9ad28e1f64daef5f9>
+	Law:要件名 "窃取公私财物达到数额较大以上标准的50%,具备特殊情况且既遂" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-e7e0fc7f024e4c54c95b4733e7dc168a>
+	Law:要件名 "窃取国有馆藏一般文物且既遂" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-510c0b6399b85cb89cd69aa536718d30>
+	Law:要件名 "窃取公私财物未遂数额达到数额巨大及以上" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-36af734251a2f3a7b4ad3798a9813c55>
+	Law:要件名 "窃取国有馆藏三级以上文物未遂" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-a0d1c0fa7f7d420026825c414b7b243b>
+	Law:要件名 "携带枪支、爆炸物、管制刀具等国家禁止个人携带的器械盗窃" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-f1f0a5a16a2eeb1bb5bcfd7b52c820bb>
+	Law:要件名 "为了实施违法犯罪携带其他足以危害他人人身安全的器械" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-567f2767e9bbd56eae0ae8f3454ce01e>
+	Law:要件名 "窃取他人随身携带的财物" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-0a2d2c9fd12e37a8c25f2cbd3aa0bd89>
+	Law:要件名 "在公共场所或者公共交通工具上" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-19ee03f2be4571ab85f2916c933e54a7>
+	Law:要件名 "偷开机动车,导致车辆丢失" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-31ca9fe1f7a37b3482974621fc71fe82>
+	Law:要件名 "偷开机动车作为犯罪工具使用后,非法占有车辆" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-f55a9cf1ca6106a0b6a0af1b60208628>
+	Law:要件名 "偷开机动车作为犯罪工具使用后,将车辆遗弃,导致丢失" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-d26bac569c76162fe45bd90f36d6b101>
+	Law:要件名 "盗窃油气" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-b6cabc2ad24a9a193255f1ecf3faa447>
+	Law:要件名 "盗窃正在使用的油气设备" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-a2a90eab0db515686cdf5a4c91138c8b>
+	Law:要件名 "为他人盗窃油气而偷开油气井、油气管道等油气设备阀门排放油气或者提供其他帮助" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-942fb03e32ab6709095635b126d79780>
+	Law:要件名 "明知是盗窃犯罪所得的油气或者油气设备,而予以窝藏、转移、收购、加工、代为销售或者以其他方法掩饰、隐瞒的,事前通谋" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-26d97bae53efc5f587bad7d48f676905>
+	Law:要件名 "以牟利为目的,盗接他人通信线路" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-643e25bc00b1fb2f2212393208c90401>
+	Law:要件名 "以牟利为目的,复制他人电信码号" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-d42ffef08b90c67dfa51158add8d6758>
+	Law:要件名 "明知是盗接、复制的电信设备、设施而使用" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-8f78f211e57bd69f0abb4d3779422346>
+	Law:要件名 "电信卡非法充值后使用,造成电信资费损失数额较大" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-d923aaa0129004e34932730b6dd3edce>
+	Law:要件名 "盗用他人公共信息网络上网账号、密码上网,造成他人电信资费损失数额较大" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-cc77ef2c003c6e09e43c4fca7a839b8d>
+	Law:要件名 "盗窃公用电信设施" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-16f15900dea6148efb55cea16e49c4b5>
+	Law:要件名 "明知是非法制作的IC电话卡而使用,造成电信资费损失数额较大" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-924701ffcaf008f6bbc2fddcf15af2ac>
+	Law:要件名 "明知是非法制作的IC电话卡而购买并使用,造成电信资费损失数额较大" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-c77e6928873994b3c5db13f3235f0248>
+	Law:要件名 "非法实施采种、采脂、挖笋、掘根、剥树皮等行为,牟取经济利益数额较大" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-efca88875ce69cfeb52f5dc3a846fbe1>
+	Law:要件名 "国家、集体、他人所有并已经伐倒的树木窃为己有,数额较大" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-d325b5d7f751908aaf3b4a4d32f7f004>
+	Law:要件名 "偷砍他人房前屋后、自留地种植的零星树木,数额较大" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-9baf9d539aaac93372bd70c1a06bf024>
+	Law:要件名 "事先与盗窃犯罪分子通谋" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-76d068de9e4bf3b62df71b683e8fe454>
+	Law:要件名 "明知是盗窃、抢劫、诈骗、抢夺的机动车" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-47c6da3716ece763eab4c06eead35848>
+	Law:要件名 "实施特定行为" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-9baf9d539aaac93372bd70c1a06bf024>
+	Law:要件名 "事先与盗窃犯罪分子通谋" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-8038ec96326831b57ae8809cf3da8664>
+	Law:要件名 "国家机关工作人员" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-d3d8f83020dadb989124b6a54cbc32fb>
+	Law:要件名 "有特定情形" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-ae6be8e77345007c12c270441430106d>
+	Law:要件名 "被办理登记的机动车数量达到三辆以上或者价值总额达到三十万元以上" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-c855df12bacbb6fa94e7279e2035e924>
+	Law:要件名 "事前与盗窃犯罪分子通谋" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-25774f31a688111a9e1e720541442e70>
+	Law:要件名 "伪造、变造、买卖机动车行驶证、登记证书,累计三本以上" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-c855df12bacbb6fa94e7279e2035e924>
+	Law:要件名 "事前与盗窃犯罪分子通谋" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-a7d86e00edabeb7fba77dd940820f601>
+	Law:要件名 "掩饰、隐瞒犯罪所得及其产生的收益" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-da27453539b757c14747f3d544b0aec2>
+	Law:要件名 "情节显著轻微危害不大" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-40ed6c786a5a98f60338033cb70c7382>
+	Law:要件名 "盗窃未遂" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-1d9a7b02c67f2b6f1201d7bb1e29c653>
+	Law:要件名 "盗窃中止" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-4cb43d611abf54a61a364d2e9e7ce3a4>
+	Law:要件名 "盗窃家庭成员或者近亲属财物" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-ecd1091092e93c0ea7cba6c0ae0d0298>
+	Law:要件名 "盗窃其他亲属财物但其他亲属要求不予追究的情形" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-c10a4e3d5843c5b071bbe75fded1dd1c>
+	Law:要件名 "达到数额较大标准的50%" ;
+	Law:要件级别 "5" .
+
+
+<http://classiclaw.com/resource/FACTOR-3ea3df82e14766d2b85e161e664d64ae>
+	Law:要件名 "特殊情况" ;
+	Law:要件级别 "5" .
+
+
+<http://classiclaw.com/resource/FACTOR-84acc2ab3a821df1b098bbcc8db81676>
+	Law:要件名 "明知是盗窃犯罪所得的油气或者油气设备,而予以窝藏、转移、收购、加工、代为销售或者以其他方法掩饰、隐瞒" ;
+	Law:要件级别 "5" .
+
+
+<http://classiclaw.com/resource/FACTOR-61574803a94a32405c8c55b7634085d1>
+	Law:要件名 "事前通谋" ;
+	Law:要件级别 "5" .
+
+
+<http://classiclaw.com/resource/FACTOR-ae143838eb9ebf01ee73ca33aaafecab>
+	Law:要件名 "买卖、介绍买卖、典当、拍卖、抵押机动车或者用其抵债" ;
+	Law:要件级别 "5" .
+
+
+<http://classiclaw.com/resource/FACTOR-88fd457e5f1ba9cd0c6e08eaa0bebbf3>
+	Law:要件名 "拆解、拼装或者组装机动车" ;
+	Law:要件级别 "5" .
+
+
+<http://classiclaw.com/resource/FACTOR-92aafe00be0ccba63c5079bda163e586>
+	Law:要件名 "事件-时间修改机动车发动机号、车辆识别代号" ;
+	Law:要件级别 "5" .
+
+
+<http://classiclaw.com/resource/FACTOR-8d0b75f9795b34f46f6e7852e39c5d68>
+	Law:要件名 "事件-时间更改机动车车身颜色或者车辆外形" ;
+	Law:要件级别 "5" .
+
+
+<http://classiclaw.com/resource/FACTOR-41c0a37bdf59115f4dcb411f11092e76>
+	Law:要件名 "事件-时间提供或者出售机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证" ;
+	Law:要件级别 "5" .
+
+
+<http://classiclaw.com/resource/FACTOR-7c285523278f776918f5ad5391dc7f3f>
+	Law:要件名 "事件-时间提供或者出售伪造、变造的机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证" ;
+	Law:要件级别 "5" .
+
+
+<http://classiclaw.com/resource/FACTOR-f6f4b924b4b06877ae0d934ea23ab14e>
+	Law:要件名 "明知是登记手续不全或者不符合规定的机动车而办理登记手续" ;
+	Law:要件级别 "5" .
+
+
+<http://classiclaw.com/resource/FACTOR-dc6340d383156af3f3c93443f1e60079>
+	Law:要件名 "指使他人为明知是登记手续不全或者不符合规定的机动车办理登记手续" ;
+	Law:要件级别 "5" .
+
+
+<http://classiclaw.com/resource/FACTOR-bef133bad32935beaef5e42202aea86e>
+	Law:要件名 "违规或者指使他人违规更改、调换车辆档案" ;
+	Law:要件级别 "5" .
+
+
+<http://classiclaw.com/resource/FACTOR-bf356089e34d43d0887e029fbf908018>
+	Law:要件名 "盗窃未超过三次" ;
+	Law:要件级别 "5" .
+
+
+<http://classiclaw.com/resource/FACTOR-8a26c531deca7b403e5391d02ed7eb79>
+	Law:要件名 "案发后如实供述全部盗窃事实" ;
+	Law:要件级别 "5" .
+
+
+<http://classiclaw.com/resource/FACTOR-3ffa33ab23cafe2e727d16717672a871>
+	Law:要件名 "积极退赃" ;
+	Law:要件级别 "5" .
+
+
+<http://classiclaw.com/resource/FACTOR-abcef8ece6583c876a89988c6f6d007b>
+	Law:要件名 "具有特别情形" ;
+	Law:要件级别 "5" .
+
+
+<http://classiclaw.com/resource/FACTOR-4ef5d41cfecf6704379216654984e4c0>
+	Law:要件名 "盗窃其他亲属财物" ;
+	Law:要件级别 "5" .
+
+
+<http://classiclaw.com/resource/FACTOR-ac782c466dc77aeee96a6dec2c7fb7bd>
+	Law:要件名 "其他亲属不予追究" ;
+	Law:要件级别 "5" .
+
+
+<http://classiclaw.com/resource/FACTOR-fbeba914f5243548cb749698ecec2478>
+	Law:要件名 "曾因盗窃受过刑事处罚" ;
+	Law:要件级别 "6" .
+
+
+<http://classiclaw.com/resource/FACTOR-1175a955984003da65b2d596b34bb2f9>
+	Law:要件名 "一年内曾因盗窃受过行政处罚" ;
+	Law:要件级别 "6" .
+
+
+<http://classiclaw.com/resource/FACTOR-d53a3561965e6ee8d201f3dd199b281d>
+	Law:要件名 "组织、控制未成年人盗窃" ;
+	Law:要件级别 "6" .
+
+
+<http://classiclaw.com/resource/FACTOR-4d734e0337e107dd8e1eff355fc468f2>
+	Law:要件名 "自然灾害、事故灾害、社会安全事件等突发事件期间,在事件发生地盗窃" ;
+	Law:要件级别 "6" .
+
+
+<http://classiclaw.com/resource/FACTOR-1db45152faedc1894248df78f02d1cb4>
+	Law:要件名 "盗窃残疾人、孤寡老人、丧失劳动能力人的财物" ;
+	Law:要件级别 "6" .
+
+
+<http://classiclaw.com/resource/FACTOR-88d5dca8179f2378e00fe733818326f9>
+	Law:要件名 "在医院盗窃病人或者其亲友财物" ;
+	Law:要件级别 "6" .
+
+
+<http://classiclaw.com/resource/FACTOR-32ac30e07691b815d0b85d4603aa3459>
+	Law:要件名 "盗窃救灾、抢险、防汛、优抚、扶贫、移民、救济款物" ;
+	Law:要件级别 "6" .
+
+
+<http://classiclaw.com/resource/FACTOR-dae9d67d76cf8e599559ef69d2f70cc9>
+	Law:要件名 "因盗窃造成严重后果" ;
+	Law:要件级别 "6" .
+
+
+<http://classiclaw.com/resource/FACTOR-ae6aa2e7cf92f9b26d69e778958ce0c5>
+	Law:要件名 "又聋又哑的人" ;
+	Law:要件级别 "6" .
+
+
+<http://classiclaw.com/resource/FACTOR-c4f69b7bf3f79f23c3c14b71942c1d72>
+	Law:要件名 "盲人" ;
+	Law:要件级别 "6" .
+
+
+<http://classiclaw.com/resource/FACTOR-21c8289a86817fd98b7a91feb488a171>
+	Law:要件名 "共同盗窃中起次要、辅助作用" ;
+	Law:要件级别 "6" .
+
+
+<http://classiclaw.com/resource/FACTOR-2d267171a8a3a6271685b5fe8648156d>
+	Law:要件名 "共同盗窃中被胁迫" ;
+	Law:要件级别 "6" .
+
+
+<http://classiclaw.com/resource/FACTOR-3648ec0fca64d024a21a321d32f13417>
+	Law:要件名 "盗窃罪" ;
+	Law:要件级别 "0" .
+
+
+<http://classiclaw.com/resource/FACTOR-5e8b6b350395fc98b8995f923e05e3e2>
+	Law:要件名 "客体及客观方面" ;
+	Law:要件级别 "1" .
+
+
+<http://classiclaw.com/resource/FACTOR-bfb4ec55f897dd3f64e1688996190796>
+	Law:要件名 "主体" ;
+	Law:要件级别 "1" .
+
+
+<http://classiclaw.com/resource/FACTOR-2bd4cbd6a41f8b996b7afa536e600b4c>
+	Law:要件名 "主观方面" ;
+	Law:要件级别 "1" .
+
+
+<http://classiclaw.com/resource/FACTOR-5486b19dfd3bf4cc1bad92a845f56518>
+	Law:要件名 "排除犯罪事由" ;
+	Law:要件级别 "1" .
+
+
+<http://classiclaw.com/resource/FACTOR-1d6a95cd327b75dfc01669931e0200fd>
+	Law:要件名 "普通盗窃行为" ;
+	Law:要件级别 "2" .
+
+
+<http://classiclaw.com/resource/FACTOR-70d1dc30b413c1dad29ebdf42e9a0196>
+	Law:要件名 "特殊盗窃行为" ;
+	Law:要件级别 "2" .
+
+
+<http://classiclaw.com/resource/FACTOR-4f16679703ee517b46c9eebe92cfccec>
+	Law:要件名 "特殊客体盗窃行为" ;
+	Law:要件级别 "2" .
+
+
+<http://classiclaw.com/resource/FACTOR-746f65c2ec14dcf9af387b003fd7d270>
+	Law:要件名 "特殊盗窃共犯行为" ;
+	Law:要件级别 "2" .
+
+
+<http://classiclaw.com/resource/FACTOR-77d7bb5ae9a817094027d2c605f4af47>
+	Law:要件名 "达到刑事责任年龄" ;
+	Law:要件级别 "2" .
+
+
+<http://classiclaw.com/resource/FACTOR-ce035ad6991791f1eef9377f14d8423f>
+	Law:要件名 "有刑事责任能力" ;
+	Law:要件级别 "2" .
+
+
+<http://classiclaw.com/resource/FACTOR-f71cd49296df91dc3d65600c81ab0c79>
+	Law:要件名 "以非法占有为目的" ;
+	Law:要件级别 "2" .
+
+
+<http://classiclaw.com/resource/FACTOR-791292c2d0e36af2f4ed5c44c9abb957>
+	Law:要件名 "盗窃故意" ;
+	Law:要件级别 "2" .
+
+
+<http://classiclaw.com/resource/FACTOR-7fa63d155decd1ea2ab17f994bb5a407>
+	Law:要件名 "正当防卫" ;
+	Law:要件级别 "2" .
+
+
+<http://classiclaw.com/resource/FACTOR-fd15235b761ac8d46f40ab9ca026895c>
+	Law:要件名 "紧急避险" ;
+	Law:要件级别 "2" .
+
+
+<http://classiclaw.com/resource/FACTOR-17effef4c954b75d14e305bafa3473a2>
+	Law:要件名 "偷拿家庭成员或者近亲属的财物且获得谅解" ;
+	Law:要件级别 "2" .
+
+
+<http://classiclaw.com/resource/FACTOR-5ccdc5f7086796d6271cdee4357d6168>
+	Law:要件名 "其他可以不认为是犯罪的情形" ;
+	Law:要件级别 "2" .
+
+
+<http://classiclaw.com/resource/FACTOR-2f0b9ca137f68a528aa13a07cd857159>
+	Law:要件名 "窃取公私财物数额较大及以上既遂" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-41e87cccc917c583f25fdbe63211f810>
+	Law:要件名 "窃取公私财物数额巨大及以上未遂" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-9c270b390e790a3e6b7a2119fc0afa09>
+	Law:要件名 "多次盗窃" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-32a39a01322821a79491ee6d92deff25>
+	Law:要件名 "入户盗窃" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-90274d153aa5f89bd371db7e22ccfef5>
+	Law:要件名 "携带凶器盗窃" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-d8c4085d915a6d405fb4535e749a94a7>
+	Law:要件名 "扒窃" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-5b2ed51dc84f38e399d3c10c05d8ac7d>
+	Law:要件名 "偷开机动车" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-858c98c55768ae5e6bcb01c9f9630270>
+	Law:要件名 "盗窃石油、天然气" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-94d1359fa11a8b233d9efd3b4161c795>
+	Law:要件名 "盗窃电力设备" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-90eb992827372d5c52923a4def1f3fd5>
+	Law:要件名 "盗窃并使用信用卡" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-927214da912ab240dd09bccfb3eb9c52>
+	Law:要件名 "盗窃发票" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-93389c5c4a99f3077d20114964ae62fe>
+	Law:要件名 "电信盗窃" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-f093f254177101a4b0df0fc951fb1672>
+	Law:要件名 "盗窃正在使用的广播电视设施" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-18e2ec76dd09aefdf83a3b2642edd7a9>
+	Law:要件名 "盗窃毒品等违禁品" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-3bc3b848888e044c0105da779022bbbc>
+	Law:要件名 "盗窃森林资源" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-bc92110bfdc44270093fe5e8882ddea6>
+	Law:要件名 "邮政工作人员盗窃邮件中财物" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-3755ccd047cff8362bba773a94c0a368>
+	Law:要件名 "事先与盗窃犯罪分子通谋,明知是盗窃、抢劫、诈骗、抢夺的机动车,实施特定行为" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-d5e6312a986f0f8dd4e61dde13f63bbf>
+	Law:要件名 "事先与盗窃犯罪分子通谋,国家机关工作人员滥用职权,有特定情形,致使盗窃、抢劫、诈骗、抢夺的机动车被办理登记手续,数量达到三辆以上或者价值总额达到三十万元以上" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-c7a2d667358e5903c42ecc2071a5710d>
+	Law:要件名 "事先与盗窃犯罪分子通谋,伪造、变造、买卖机动车行驶证、登记证书,累计三本以上" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-103f99f383eaac9239497a311b2a0680>
+	Law:要件名 "事前与盗窃犯罪分子通谋,掩饰、隐瞒犯罪所得及其产生的收益" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-abfa59617d5916704bb65b5a7fc4a75b>
+	Law:要件名 "不是精神病人" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-99ab4aaaa63c3432a8af06d5ed060b30>
+	Law:要件名 "尚未完全丧失辨认或者控制自己行为能力的精神病人" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-6306de27746c891034b60b52f61de212>
+	Law:要件名 "偷拿家庭成员或者近亲属的财物" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-9a9875d34142accece69caac906059cb>
+	Law:要件名 "家庭成员或者近亲属谅解" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-23fe9feebedc83f7084c33c46ad5ff0b>
+	Law:要件名 "已满十六周岁未超过十八周岁" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-7519ca3d760a352f99623a60f72e4757>
+	Law:要件名 "具有特殊情况" ;
+	Law:要件级别 "3" .
+
+
+<http://classiclaw.com/resource/FACTOR-a675043958e6f8fc58d00c1155185be2>
+	Law:要件名 "窃取公私财物数额较大以上且既遂" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-d1324bb3b51099b4b05bc9797fecaa7c>
+	Law:要件名 "窃取公私财物达到数额较大以上标准的50%,具备特殊情况且既遂" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-e7e0fc7f024e4c54c95b4733e7dc168a>
+	Law:要件名 "窃取国有馆藏一般文物且既遂" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-510c0b6399b85cb89cd69aa536718d30>
+	Law:要件名 "窃取公私财物未遂数额达到数额巨大及以上" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-36af734251a2f3a7b4ad3798a9813c55>
+	Law:要件名 "窃取国有馆藏三级以上文物未遂" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-a0d1c0fa7f7d420026825c414b7b243b>
+	Law:要件名 "携带枪支、爆炸物、管制刀具等国家禁止个人携带的器械盗窃" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-f1f0a5a16a2eeb1bb5bcfd7b52c820bb>
+	Law:要件名 "为了实施违法犯罪携带其他足以危害他人人身安全的器械" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-567f2767e9bbd56eae0ae8f3454ce01e>
+	Law:要件名 "窃取他人随身携带的财物" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-0a2d2c9fd12e37a8c25f2cbd3aa0bd89>
+	Law:要件名 "在公共场所或者公共交通工具上" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-19ee03f2be4571ab85f2916c933e54a7>
+	Law:要件名 "偷开机动车,导致车辆丢失" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-31ca9fe1f7a37b3482974621fc71fe82>
+	Law:要件名 "偷开机动车作为犯罪工具使用后,非法占有车辆" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-f55a9cf1ca6106a0b6a0af1b60208628>
+	Law:要件名 "偷开机动车作为犯罪工具使用后,将车辆遗弃,导致丢失" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-d26bac569c76162fe45bd90f36d6b101>
+	Law:要件名 "盗窃油气" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-b6cabc2ad24a9a193255f1ecf3faa447>
+	Law:要件名 "盗窃正在使用的油气设备" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-a2a90eab0db515686cdf5a4c91138c8b>
+	Law:要件名 "为他人盗窃油气而偷开油气井、油气管道等油气设备阀门排放油气或者提供其他帮助" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-8a1b9200eaa5ab778c375dc5b583173d>
+	Law:要件名 "明知是盗窃犯罪所得的油气或者油气设备,而予以窝藏、转移、收购、加工、代为销售或者以其他方法掩饰、隐瞒的,事前通谋" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-26d97bae53efc5f587bad7d48f676905>
+	Law:要件名 "以牟利为目的,盗接他人通信线路" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-643e25bc00b1fb2f2212393208c90401>
+	Law:要件名 "以牟利为目的,复制他人电信码号" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-d42ffef08b90c67dfa51158add8d6758>
+	Law:要件名 "明知是盗接、复制的电信设备、设施而使用" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-8f78f211e57bd69f0abb4d3779422346>
+	Law:要件名 "电信卡非法充值后使用,造成电信资费损失数额较大" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-d923aaa0129004e34932730b6dd3edce>
+	Law:要件名 "盗用他人公共信息网络上网账号、密码上网,造成他人电信资费损失数额较大" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-cc77ef2c003c6e09e43c4fca7a839b8d>
+	Law:要件名 "盗窃公用电信设施" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-16f15900dea6148efb55cea16e49c4b5>
+	Law:要件名 "明知是非法制作的IC电话卡而使用,造成电信资费损失数额较大" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-924701ffcaf008f6bbc2fddcf15af2ac>
+	Law:要件名 "明知是非法制作的IC电话卡而购买并使用,造成电信资费损失数额较大" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-c77e6928873994b3c5db13f3235f0248>
+	Law:要件名 "非法实施采种、采脂、挖笋、掘根、剥树皮等行为,牟取经济利益数额较大" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-efca88875ce69cfeb52f5dc3a846fbe1>
+	Law:要件名 "国家、集体、他人所有并已经伐倒的树木窃为己有,数额较大" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-d325b5d7f751908aaf3b4a4d32f7f004>
+	Law:要件名 "偷砍他人房前屋后、自留地种植的零星树木,数额较大" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-9baf9d539aaac93372bd70c1a06bf024>
+	Law:要件名 "事先与盗窃犯罪分子通谋" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-76d068de9e4bf3b62df71b683e8fe454>
+	Law:要件名 "明知是盗窃、抢劫、诈骗、抢夺的机动车" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-671f471343d06d43b304e78e492d0818>
+	Law:要件名 "实施特定行为" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-8038ec96326831b57ae8809cf3da8664>
+	Law:要件名 "国家机关工作人员" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-33ada4d549e337afd8e56b2dfa656bd0>
+	Law:要件名 "有特定情形" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-ae6be8e77345007c12c270441430106d>
+	Law:要件名 "被办理登记的机动车数量达到三辆以上或者价值总额达到三十万元以上" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-c855df12bacbb6fa94e7279e2035e924>
+	Law:要件名 "事前与盗窃犯罪分子通谋" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-25774f31a688111a9e1e720541442e70>
+	Law:要件名 "伪造、变造、买卖机动车行驶证、登记证书,累计三本以上" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-a7d86e00edabeb7fba77dd940820f601>
+	Law:要件名 "掩饰、隐瞒犯罪所得及其产生的收益" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-0230023828c41674488928e2371e24c2>
+	Law:要件名 "情节显著轻微危害不大" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-40ed6c786a5a98f60338033cb70c7382>
+	Law:要件名 "盗窃未遂" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-1d9a7b02c67f2b6f1201d7bb1e29c653>
+	Law:要件名 "盗窃中止" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-4cb43d611abf54a61a364d2e9e7ce3a4>
+	Law:要件名 "盗窃家庭成员或者近亲属财物" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-0b84c1075c7e7f790f43875b3b26c411>
+	Law:要件名 "盗窃其他亲属财物但其他亲属要求不予追究的情形" ;
+	Law:要件级别 "4" .
+
+
+<http://classiclaw.com/resource/FACTOR-c10a4e3d5843c5b071bbe75fded1dd1c>
+	Law:要件名 "达到数额较大标准的50%" ;
+	Law:要件级别 "5" .
+
+
+<http://classiclaw.com/resource/FACTOR-ec14fdce216296fb07266c02b6abed33>
+	Law:要件名 "特殊情况" ;
+	Law:要件级别 "5" .
+
+
+<http://classiclaw.com/resource/FACTOR-84acc2ab3a821df1b098bbcc8db81676>
+	Law:要件名 "明知是盗窃犯罪所得的油气或者油气设备,而予以窝藏、转移、收购、加工、代为销售或者以其他方法掩饰、隐瞒" ;
+	Law:要件级别 "5" .
+
+
+<http://classiclaw.com/resource/FACTOR-61574803a94a32405c8c55b7634085d1>
+	Law:要件名 "事前通谋" ;
+	Law:要件级别 "5" .
+
+
+<http://classiclaw.com/resource/FACTOR-ae143838eb9ebf01ee73ca33aaafecab>
+	Law:要件名 "买卖、介绍买卖、典当、拍卖、抵押机动车或者用其抵债" ;
+	Law:要件级别 "5" .
+
+
+<http://classiclaw.com/resource/FACTOR-88fd457e5f1ba9cd0c6e08eaa0bebbf3>
+	Law:要件名 "拆解、拼装或者组装机动车" ;
+	Law:要件级别 "5" .
+
+
+<http://classiclaw.com/resource/FACTOR-92aafe00be0ccba63c5079bda163e586>
+	Law:要件名 "事件-时间修改机动车发动机号、车辆识别代号" ;
+	Law:要件级别 "5" .
+
+
+<http://classiclaw.com/resource/FACTOR-8d0b75f9795b34f46f6e7852e39c5d68>
+	Law:要件名 "事件-时间更改机动车车身颜色或者车辆外形" ;
+	Law:要件级别 "5" .
+
+
+<http://classiclaw.com/resource/FACTOR-41c0a37bdf59115f4dcb411f11092e76>
+	Law:要件名 "事件-时间提供或者出售机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证" ;
+	Law:要件级别 "5" .
+
+
+<http://classiclaw.com/resource/FACTOR-7c285523278f776918f5ad5391dc7f3f>
+	Law:要件名 "事件-时间提供或者出售伪造、变造的机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证" ;
+	Law:要件级别 "5" .
+
+
+<http://classiclaw.com/resource/FACTOR-f6f4b924b4b06877ae0d934ea23ab14e>
+	Law:要件名 "明知是登记手续不全或者不符合规定的机动车而办理登记手续" ;
+	Law:要件级别 "5" .
+
+
+<http://classiclaw.com/resource/FACTOR-dc6340d383156af3f3c93443f1e60079>
+	Law:要件名 "指使他人为明知是登记手续不全或者不符合规定的机动车办理登记手续" ;
+	Law:要件级别 "5" .
+
+
+<http://classiclaw.com/resource/FACTOR-bef133bad32935beaef5e42202aea86e>
+	Law:要件名 "违规或者指使他人违规更改、调换车辆档案" ;
+	Law:要件级别 "5" .
+
+
+<http://classiclaw.com/resource/FACTOR-bf356089e34d43d0887e029fbf908018>
+	Law:要件名 "盗窃未超过三次" ;
+	Law:要件级别 "5" .
+
+
+<http://classiclaw.com/resource/FACTOR-8a26c531deca7b403e5391d02ed7eb79>
+	Law:要件名 "案发后如实供述全部盗窃事实" ;
+	Law:要件级别 "5" .
+
+
+<http://classiclaw.com/resource/FACTOR-3ffa33ab23cafe2e727d16717672a871>
+	Law:要件名 "积极退赃" ;
+	Law:要件级别 "5" .
+
+
+<http://classiclaw.com/resource/FACTOR-262a6d0c1ee45cc72c77386c413d93fb>
+	Law:要件名 "具有特别情形" ;
+	Law:要件级别 "5" .
+
+
+<http://classiclaw.com/resource/FACTOR-4ef5d41cfecf6704379216654984e4c0>
+	Law:要件名 "盗窃其他亲属财物" ;
+	Law:要件级别 "5" .
+
+
+<http://classiclaw.com/resource/FACTOR-ac782c466dc77aeee96a6dec2c7fb7bd>
+	Law:要件名 "其他亲属不予追究" ;
+	Law:要件级别 "5" .
+
+
+<http://classiclaw.com/resource/FACTOR-fbeba914f5243548cb749698ecec2478>
+	Law:要件名 "曾因盗窃受过刑事处罚" ;
+	Law:要件级别 "6" .
+
+
+<http://classiclaw.com/resource/FACTOR-1175a955984003da65b2d596b34bb2f9>
+	Law:要件名 "一年内曾因盗窃受过行政处罚" ;
+	Law:要件级别 "6" .
+
+
+<http://classiclaw.com/resource/FACTOR-d53a3561965e6ee8d201f3dd199b281d>
+	Law:要件名 "组织、控制未成年人盗窃" ;
+	Law:要件级别 "6" .
+
+
+<http://classiclaw.com/resource/FACTOR-4d734e0337e107dd8e1eff355fc468f2>
+	Law:要件名 "自然灾害、事故灾害、社会安全事件等突发事件期间,在事件发生地盗窃" ;
+	Law:要件级别 "6" .
+
+
+<http://classiclaw.com/resource/FACTOR-1db45152faedc1894248df78f02d1cb4>
+	Law:要件名 "盗窃残疾人、孤寡老人、丧失劳动能力人的财物" ;
+	Law:要件级别 "6" .
+
+
+<http://classiclaw.com/resource/FACTOR-88d5dca8179f2378e00fe733818326f9>
+	Law:要件名 "在医院盗窃病人或者其亲友财物" ;
+	Law:要件级别 "6" .
+
+
+<http://classiclaw.com/resource/FACTOR-32ac30e07691b815d0b85d4603aa3459>
+	Law:要件名 "盗窃救灾、抢险、防汛、优抚、扶贫、移民、救济款物" ;
+	Law:要件级别 "6" .
+
+
+<http://classiclaw.com/resource/FACTOR-dae9d67d76cf8e599559ef69d2f70cc9>
+	Law:要件名 "因盗窃造成严重后果" ;
+	Law:要件级别 "6" .
+
+
+<http://classiclaw.com/resource/FACTOR-ae6aa2e7cf92f9b26d69e778958ce0c5>
+	Law:要件名 "又聋又哑的人" ;
+	Law:要件级别 "6" .
+
+
+<http://classiclaw.com/resource/FACTOR-c4f69b7bf3f79f23c3c14b71942c1d72>
+	Law:要件名 "盲人" ;
+	Law:要件级别 "6" .
+
+
+<http://classiclaw.com/resource/FACTOR-21c8289a86817fd98b7a91feb488a171>
+	Law:要件名 "共同盗窃中起次要、辅助作用" ;
+	Law:要件级别 "6" .
+
+
+<http://classiclaw.com/resource/FACTOR-2d267171a8a3a6271685b5fe8648156d>
+	Law:要件名 "共同盗窃中被胁迫" ;
+	Law:要件级别 "6" .
+
+

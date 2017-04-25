@@ -1,0 +1,1003 @@
+<http://classiclaw.com/resource/RULE-cfcd208495d565ef66e7dff9f98764da>
+	rdf:type Law:Rule ;
+	rdfs:label "规则0" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-b09edb5f143a95dd28a37af282eed377> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-3ad6c23adb7daeace14c075f62645f53> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-8cc24c40fdb3414f7750682095667541> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-b7325eb0f212dccd923da7939ba3359a> ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-3648ec0fca64d024a21a321d32f13417> .
+
+
+<http://classiclaw.com/resource/RULE-c4ca4238a0b923820dcc509a6f75849b>
+	rdf:type Law:Rule ;
+	rdfs:label "规则1" ;
+	Law:逻辑关系 "OR" ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-2159fb48fae0d5076a246562619f766e> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-c5427de05a5c2f8f388624e6a67a635e> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-58d13baad2ca6193df67006a419785b8> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-f3a1912898e55a3703d1cba511f3d7e6> ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-5e8b6b350395fc98b8995f923e05e3e2> .
+
+
+<http://classiclaw.com/resource/RULE-c81e728d9d4c2f636f067f89cc14862c>
+	rdf:type Law:Rule ;
+	rdfs:label "规则2" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-77d7bb5ae9a817094027d2c605f4af47> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-b44edf322f14d090ee1a7268e896d0e4> ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-bfb4ec55f897dd3f64e1688996190796> .
+
+
+<http://classiclaw.com/resource/RULE-eccbc87e4b5ce2fe28308fd9f2a7baf3>
+	rdf:type Law:Rule ;
+	rdfs:label "规则3" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-f71cd49296df91dc3d65600c81ab0c79> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-791292c2d0e36af2f4ed5c44c9abb957> ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-2bd4cbd6a41f8b996b7afa536e600b4c> .
+
+
+<http://classiclaw.com/resource/RULE-a87ff679a2f3e71d9181a67b7542122c>
+	rdf:type Law:Rule ;
+	rdfs:label "规则4" ;
+	Law:逻辑关系 "OR" ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-7fa63d155decd1ea2ab17f994bb5a407> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-fd15235b761ac8d46f40ab9ca026895c> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-aa467c4bebf3bf680dcc03567071ea03> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-ec36900aea8f93c0373aba4eabd0953b> ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-5486b19dfd3bf4cc1bad92a845f56518> .
+
+
+<http://classiclaw.com/resource/RULE-e4da3b7fbbce2345d7772b0674a318d5>
+	rdf:type Law:Rule ;
+	rdfs:label "规则5" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-5ac4e2a050a83dc955010763b7db9be3> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-f0d1128cb7add02d5934f34a43e99445> ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-1d6a95cd327b75dfc01669931e0200fd> .
+
+
+<http://classiclaw.com/resource/RULE-1679091c5a880faf6fb5e6087eb1b2dc>
+	rdf:type Law:Rule ;
+	rdfs:label "规则6" ;
+	Law:逻辑关系 "OR" ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-9c270b390e790a3e6b7a2119fc0afa09> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-32a39a01322821a79491ee6d92deff25> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-3c893ae0c1be7db1e08fe70eba2ab401> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-5d465bce13334a20ff24f84470cc4dcb> ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-70d1dc30b413c1dad29ebdf42e9a0196> .
+
+
+<http://classiclaw.com/resource/RULE-8f14e45fceea167a5a36dedd4bea2543>
+	rdf:type Law:Rule ;
+	rdfs:label "规则7" ;
+	Law:逻辑关系 "OR" ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-6b6a2f3b2b75e5fecef73d355968d0a5> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-762af44b4c14008210ac9d249fe23afd> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-94d1359fa11a8b233d9efd3b4161c795> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-90eb992827372d5c52923a4def1f3fd5> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-927214da912ab240dd09bccfb3eb9c52> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-fe7a58004dfde701b14de426731df5e1> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-f093f254177101a4b0df0fc951fb1672> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-18e2ec76dd09aefdf83a3b2642edd7a9> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-3b637dcf4837eb893f8d2db874583a87> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-bc92110bfdc44270093fe5e8882ddea6> ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-4f16679703ee517b46c9eebe92cfccec> .
+
+
+<http://classiclaw.com/resource/RULE-c9f0f895fb98ab9159f51fd0297e236d>
+	rdf:type Law:Rule ;
+	rdfs:label "规则8" ;
+	Law:逻辑关系 "OR" ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-2eaf1444d7e67ba539b96d9f90943eb9> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-5245d07ae14648e3a3c42c3236c882d9> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-d128cf069f633cfe37e6de9f76ff3a43> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-441c61c34acc1f3afc521f71740aa9d3> ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-746f65c2ec14dcf9af387b003fd7d270> .
+
+
+<http://classiclaw.com/resource/RULE-45c48cce2e2d7fbdea1afc51c7c6ad26>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则9" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "[<事件-行为-窃取>|<事件-行为-偷开>|<事件-行为-作为犯罪工具偷开并遗弃>|<事件-行为-作为犯罪工具偷开并非法占有>|<事件-行为-私自开拆邮件并窃取>|<事件-行为-窝藏、转移、收购、加工、代为销售或者以其他方法掩饰、隐瞒>|<事件-行为-盗接>|<事件-行为-盗用>|<事件-行为-复制>|<事件-行为-偷砍>|<事件-行为-使用>|<事件-行为-非法充值后使用>|<事件-行为-购买并使用>|<事件-行为-偷开油气井、油气管道等油气设备阀门>|<事件-行为-非法采种、采脂、挖笋、掘根、剥树皮>|<事件-行为-买卖、介绍买卖、典当、拍卖、抵押机动车或者用其抵债>|<事件-行为-拆解、拼装或者组装机动车>|<事件-行为-修改机动车发动机号、车辆识别代号>|<事件-行为-更改机动车车身颜色或者车辆外形>|<事件-行为-提供或者出售机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证>|<事件-行为-提供或者出售伪造、变造的机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证>|<事件-行为-违规办理机动车登记手续>|<事件-行为-指使他人违规办理机动车登记手续>|<事件-行为-违规或者指使他人违规更改、调换车辆档案>|<事件-行为-伪造、变造、买卖机动车行驶证、登记证书>|<事件-行为-掩饰、隐瞒犯罪所得及其产生的收益>]&<事件-时间-日期-日期值>&<事件-主体ID>	<主体-自然人-角色-被告人>&<主体-自然人-出生日期>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-77d7bb5ae9a817094027d2c605f4af47> .
+
+
+<http://classiclaw.com/resource/RULE-d3d9446802a44259755d38e6d163e820>
+	rdf:type Law:Rule ;
+	rdfs:label "规则10" ;
+	Law:逻辑关系 "OR" ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-abfa59617d5916704bb65b5a7fc4a75b> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-99ab4aaaa63c3432a8af06d5ed060b30> ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-ce035ad6991791f1eef9377f14d8423f> .
+
+
+<http://classiclaw.com/resource/RULE-6512bd43d9caa6e02c990b0a82652dca>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则11" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "[<事件-行为-窃取>|<事件-行为-偷开>|<事件-行为-作为犯罪工具偷开并遗弃>|<事件-行为-作为犯罪工具偷开并非法占有>|<事件-行为-私自开拆邮件并窃取>|<事件-行为-窝藏、转移、收购、加工、代为销售或者以其他方法掩饰、隐瞒>|<事件-行为-盗接>|<事件-行为-盗用>|<事件-行为-复制>|<事件-行为-偷砍>|<事件-行为-使用>|<事件-行为-非法充值后使用>|<事件-行为-购买并使用>|<事件-行为-偷开油气井、油气管道等油气设备阀门>|<事件-行为-非法采种、采脂、挖笋、掘根、剥树皮>|<事件-行为-买卖、介绍买卖、典当、拍卖、抵押机动车或者用其抵债>|<事件-行为-拆解、拼装或者组装机动车>|<事件-行为-修改机动车发动机号、车辆识别代号>|<事件-行为-更改机动车车身颜色或者车辆外形>|<事件-行为-提供或者出售机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证>|<事件-行为-提供或者出售伪造、变造的机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证>|<事件-行为-违规办理机动车登记手续>|<事件-行为-指使他人违规办理机动车登记手续>|<事件-行为-违规或者指使他人违规更改、调换车辆档案>|<事件-行为-伪造、变造、买卖机动车行驶证、登记证书>|<事件-行为-掩饰、隐瞒犯罪所得及其产生的收益>]&<事件-主观方面-以非法占有为目的-是>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-f71cd49296df91dc3d65600c81ab0c79> .
+
+
+<http://classiclaw.com/resource/RULE-c20ad4d76fe97759aa27a0c99bff6710>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则12" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "[<事件-行为-窃取>|<事件-行为-偷开>|<事件-行为-作为犯罪工具偷开并遗弃>|<事件-行为-作为犯罪工具偷开并非法占有>|<事件-行为-私自开拆邮件并窃取>|<事件-行为-窝藏、转移、收购、加工、代为销售或者以其他方法掩饰、隐瞒>|<事件-行为-盗接>|<事件-行为-盗用>|<事件-行为-复制>|<事件-行为-偷砍>|<事件-行为-使用>|<事件-行为-非法充值后使用>|<事件-行为-购买并使用>|<事件-行为-偷开油气井、油气管道等油气设备阀门>|<事件-行为-非法采种、采脂、挖笋、掘根、剥树皮>|<事件-行为-买卖、介绍买卖、典当、拍卖、抵押机动车或者用其抵债>|<事件-行为-拆解、拼装或者组装机动车>|<事件-行为-修改机动车发动机号、车辆识别代号>|<事件-行为-更改机动车车身颜色或者车辆外形>|<事件-行为-提供或者出售机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证>|<事件-行为-提供或者出售伪造、变造的机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证>|<事件-行为-违规办理机动车登记手续>|<事件-行为-指使他人违规办理机动车登记手续>|<事件-行为-违规或者指使他人违规更改、调换车辆档案>|<事件-行为-伪造、变造、买卖机动车行驶证、登记证书>|<事件-行为-掩饰、隐瞒犯罪所得及其产生的收益>]&<事件-主观方面-盗窃故意-是>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-791292c2d0e36af2f4ed5c44c9abb957> .
+
+
+<http://classiclaw.com/resource/RULE-c51ce410c124a10e0db5e4b97fc2af39>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则13" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "[<事件-行为-窃取>|<事件-行为-偷开>|<事件-行为-作为犯罪工具偷开并遗弃>|<事件-行为-作为犯罪工具偷开并非法占有>|<事件-行为-私自开拆邮件并窃取>|<事件-行为-窝藏、转移、收购、加工、代为销售或者以其他方法掩饰、隐瞒>|<事件-行为-盗接>|<事件-行为-盗用>|<事件-行为-复制>|<事件-行为-偷砍>|<事件-行为-使用>|<事件-行为-非法充值后使用>|<事件-行为-购买并使用>|<事件-行为-偷开油气井、油气管道等油气设备阀门>|<事件-行为-非法采种、采脂、挖笋、掘根、剥树皮>|<事件-行为-买卖、介绍买卖、典当、拍卖、抵押机动车或者用其抵债>|<事件-行为-拆解、拼装或者组装机动车>|<事件-行为-修改机动车发动机号、车辆识别代号>|<事件-行为-更改机动车车身颜色或者车辆外形>|<事件-行为-提供或者出售机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证>|<事件-行为-提供或者出售伪造、变造的机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证>|<事件-行为-违规办理机动车登记手续>|<事件-行为-指使他人违规办理机动车登记手续>|<事件-行为-违规或者指使他人违规更改、调换车辆档案>|<事件-行为-伪造、变造、买卖机动车行驶证、登记证书>|<事件-行为-掩饰、隐瞒犯罪所得及其产生的收益>]&<事件-特殊情况-正当防卫>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-7fa63d155decd1ea2ab17f994bb5a407> .
+
+
+<http://classiclaw.com/resource/RULE-aab3238922bcc25a6f606eb525ffdc56>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则14" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "[<事件-行为-窃取>|<事件-行为-偷开>|<事件-行为-作为犯罪工具偷开并遗弃>|<事件-行为-作为犯罪工具偷开并非法占有>|<事件-行为-私自开拆邮件并窃取>|<事件-行为-窝藏、转移、收购、加工、代为销售或者以其他方法掩饰、隐瞒>|<事件-行为-盗接>|<事件-行为-盗用>|<事件-行为-复制>|<事件-行为-偷砍>|<事件-行为-使用>|<事件-行为-非法充值后使用>|<事件-行为-购买并使用>|<事件-行为-偷开油气井、油气管道等油气设备阀门>|<事件-行为-非法采种、采脂、挖笋、掘根、剥树皮>|<事件-行为-买卖、介绍买卖、典当、拍卖、抵押机动车或者用其抵债>|<事件-行为-拆解、拼装或者组装机动车>|<事件-行为-修改机动车发动机号、车辆识别代号>|<事件-行为-更改机动车车身颜色或者车辆外形>|<事件-行为-提供或者出售机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证>|<事件-行为-提供或者出售伪造、变造的机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证>|<事件-行为-违规办理机动车登记手续>|<事件-行为-指使他人违规办理机动车登记手续>|<事件-行为-违规或者指使他人违规更改、调换车辆档案>|<事件-行为-伪造、变造、买卖机动车行驶证、登记证书>|<事件-行为-掩饰、隐瞒犯罪所得及其产生的收益>]&<事件-特殊情况-紧急避险>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-fd15235b761ac8d46f40ab9ca026895c> .
+
+
+<http://classiclaw.com/resource/RULE-9bf31c7ff062936a96d3c8bd1f8f2ff3>
+	rdf:type Law:Rule ;
+	rdfs:label "规则15" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-6306de27746c891034b60b52f61de212> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-9a9875d34142accece69caac906059cb> ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-17effef4c954b75d14e305bafa3473a2> .
+
+
+<http://classiclaw.com/resource/RULE-c74d97b01eae257e44aa9d5bade97baf>
+	rdf:type Law:Rule ;
+	rdfs:label "规则16" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-23fe9feebedc83f7084c33c46ad5ff0b> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-bda7b6e1fa59093884c311a99d2680ce> ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-5ccdc5f7086796d6271cdee4357d6168> .
+
+
+<http://classiclaw.com/resource/RULE-70efdf2ec9b086079795c442636b55fb>
+	rdf:type Law:Rule ;
+	rdfs:label "规则17" ;
+	Law:逻辑关系 "OR" ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-a675043958e6f8fc58d00c1155185be2> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-ddde1f421f7b32d9ad28e1f64daef5f9> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-e7e0fc7f024e4c54c95b4733e7dc168a> ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-2f0b9ca137f68a528aa13a07cd857159> .
+
+
+<http://classiclaw.com/resource/RULE-6f4922f45568161a8cdf4ad2299f6d23>
+	rdf:type Law:Rule ;
+	rdfs:label "规则18" ;
+	Law:逻辑关系 "OR" ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-510c0b6399b85cb89cd69aa536718d30> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-36af734251a2f3a7b4ad3798a9813c55> ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-41e87cccc917c583f25fdbe63211f810> .
+
+
+<http://classiclaw.com/resource/RULE-1f0e3dad99908345f7439f8ffabdffc4>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则19" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-窃取>&<事件-时间-日期-日期值>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-9c270b390e790a3e6b7a2119fc0afa09> .
+
+
+<http://classiclaw.com/resource/RULE-98f13708210194c475687be6106a3b84>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则20" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-窃取>&<事件-地点-场所类型-户>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-32a39a01322821a79491ee6d92deff25> .
+
+
+<http://classiclaw.com/resource/RULE-3c59dc048e8850243be8079a5c74d079>
+	rdf:type Law:Rule ;
+	rdfs:label "规则21" ;
+	Law:逻辑关系 "OR" ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-a0d1c0fa7f7d420026825c414b7b243b> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-f1f0a5a16a2eeb1bb5bcfd7b52c820bb> ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-90274d153aa5f89bd371db7e22ccfef5> .
+
+
+<http://classiclaw.com/resource/RULE-b6d767d2f8ed5d21a44b0e5886680cb9>
+	rdf:type Law:Rule ;
+	rdfs:label "规则22" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-567f2767e9bbd56eae0ae8f3454ce01e> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-0a2d2c9fd12e37a8c25f2cbd3aa0bd89> ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-d8c4085d915a6d405fb4535e749a94a7> .
+
+
+<http://classiclaw.com/resource/RULE-37693cfc748049e45d87b8c7d8b9aacd>
+	rdf:type Law:Rule ;
+	rdfs:label "规则23" ;
+	Law:逻辑关系 "OR" ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-19ee03f2be4571ab85f2916c933e54a7> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-31ca9fe1f7a37b3482974621fc71fe82> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-f55a9cf1ca6106a0b6a0af1b60208628> ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-5b2ed51dc84f38e399d3c10c05d8ac7d> .
+
+
+<http://classiclaw.com/resource/RULE-1ff1de774005f8da13f42943881c655f>
+	rdf:type Law:Rule ;
+	rdfs:label "规则24" ;
+	Law:逻辑关系 "OR" ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-d26bac569c76162fe45bd90f36d6b101> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-b6cabc2ad24a9a193255f1ecf3faa447> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-a2a90eab0db515686cdf5a4c91138c8b> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-942fb03e32ab6709095635b126d79780> ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-858c98c55768ae5e6bcb01c9f9630270> .
+
+
+<http://classiclaw.com/resource/RULE-8e296a067a37563370ded05f5a3bf3ec>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则25" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-盗接>&<事件-对象-对象类型-电力设备>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-94d1359fa11a8b233d9efd3b4161c795> .
+
+
+<http://classiclaw.com/resource/RULE-4e732ced3463d06de0ca9a15b6153677>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则26" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "{<事件-行为-窃取>&<事件-对象-对象类型-信用卡>&<事件-主体ID>}{<事件-行为-使用>&<事件-对象-对象类型-信用卡>&<事件-主体ID>}	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-90eb992827372d5c52923a4def1f3fd5> .
+
+
+<http://classiclaw.com/resource/RULE-02e74f10e0327ad868d138f2b4fdd6f0>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则27" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-窃取>&[<事件-对象-对象类型-增值税专用发票>|<事件-对象-对象类型-可以用于骗取出口退税、抵扣税款的其他发票>]&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-927214da912ab240dd09bccfb3eb9c52> .
+
+
+<http://classiclaw.com/resource/RULE-33e75ff09dd601bbe69f351039152189>
+	rdf:type Law:Rule ;
+	rdfs:label "规则28" ;
+	Law:逻辑关系 "OR" ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-26d97bae53efc5f587bad7d48f676905> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-643e25bc00b1fb2f2212393208c90401> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-d42ffef08b90c67dfa51158add8d6758> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-8f78f211e57bd69f0abb4d3779422346> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-d923aaa0129004e34932730b6dd3edce> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-cc77ef2c003c6e09e43c4fca7a839b8d> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-16f15900dea6148efb55cea16e49c4b5> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-924701ffcaf008f6bbc2fddcf15af2ac> ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-93389c5c4a99f3077d20114964ae62fe> .
+
+
+<http://classiclaw.com/resource/RULE-6ea9ab1baa0efb9e19094440c317e21b>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则29" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-窃取>&<事件-对象-对象类型-正在使用的广播电视设施>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-f093f254177101a4b0df0fc951fb1672> .
+
+
+<http://classiclaw.com/resource/RULE-34173cb38f07f89ddbebc2ac9128303f>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则30" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-窃取>&<事件-对象-对象类型-毒品等违禁品>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-18e2ec76dd09aefdf83a3b2642edd7a9> .
+
+
+<http://classiclaw.com/resource/RULE-c16a5320fa475530d9583c34fd356ef5>
+	rdf:type Law:Rule ;
+	rdfs:label "规则31" ;
+	Law:逻辑关系 "OR" ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-c77e6928873994b3c5db13f3235f0248> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-efca88875ce69cfeb52f5dc3a846fbe1> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-d325b5d7f751908aaf3b4a4d32f7f004> ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-3bc3b848888e044c0105da779022bbbc> .
+
+
+<http://classiclaw.com/resource/RULE-6364d3f0f495b6ab9dcf8d3b5c6e0b01>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则32" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-私自开拆邮件并窃取>&<事件-对象-对象类型-邮件中财物>&<事件-主体ID>	<主体-自然人-角色-被告人>&<主体-自然人-职业-邮政工作人员>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-bc92110bfdc44270093fe5e8882ddea6> .
+
+
+<http://classiclaw.com/resource/RULE-182be0c5cdcd5072bb1864cdee4d3d6e>
+	rdf:type Law:Rule ;
+	rdfs:label "规则33" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-9baf9d539aaac93372bd70c1a06bf024> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-76d068de9e4bf3b62df71b683e8fe454> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-47c6da3716ece763eab4c06eead35848> ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-3755ccd047cff8362bba773a94c0a368> .
+
+
+<http://classiclaw.com/resource/RULE-e369853df766fa44e1ed0ff613f563bd>
+	rdf:type Law:Rule ;
+	rdfs:label "规则34" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-9baf9d539aaac93372bd70c1a06bf024> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-8038ec96326831b57ae8809cf3da8664> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-d3d8f83020dadb989124b6a54cbc32fb> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-ae6be8e77345007c12c270441430106d> ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-d5e6312a986f0f8dd4e61dde13f63bbf> .
+
+
+<http://classiclaw.com/resource/RULE-1c383cd30b7c298ab50293adfecb7b18>
+	rdf:type Law:Rule ;
+	rdfs:label "规则35" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-c855df12bacbb6fa94e7279e2035e924> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-25774f31a688111a9e1e720541442e70> ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-c7a2d667358e5903c42ecc2071a5710d> .
+
+
+<http://classiclaw.com/resource/RULE-19ca14e7ea6328a42e0eb13d585e4c22>
+	rdf:type Law:Rule ;
+	rdfs:label "规则36" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-c855df12bacbb6fa94e7279e2035e924> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-a7d86e00edabeb7fba77dd940820f601> ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-103f99f383eaac9239497a311b2a0680> .
+
+
+<http://classiclaw.com/resource/RULE-a5bfc9e07964f8dddeb95fc584cd965d>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则37" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "[<事件-行为-窃取>|<事件-行为-偷开>|<事件-行为-作为犯罪工具偷开并遗弃>|<事件-行为-作为犯罪工具偷开并非法占有>|<事件-行为-私自开拆邮件并窃取>|<事件-行为-窝藏、转移、收购、加工、代为销售或者以其他方法掩饰、隐瞒>|<事件-行为-盗接>|<事件-行为-盗用>|<事件-行为-复制>|<事件-行为-偷砍>|<事件-行为-使用>|<事件-行为-非法充值后使用>|<事件-行为-购买并使用>|<事件-行为-偷开油气井、油气管道等油气设备阀门>|<事件-行为-非法采种、采脂、挖笋、掘根、剥树皮>|<事件-行为-买卖、介绍买卖、典当、拍卖、抵押机动车或者用其抵债>|<事件-行为-拆解、拼装或者组装机动车>|<事件-行为-修改机动车发动机号、车辆识别代号>|<事件-行为-更改机动车车身颜色或者车辆外形>|<事件-行为-提供或者出售机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证>|<事件-行为-提供或者出售伪造、变造的机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证>|<事件-行为-违规办理机动车登记手续>|<事件-行为-指使他人违规办理机动车登记手续>|<事件-行为-违规或者指使他人违规更改、调换车辆档案>|<事件-行为-伪造、变造、买卖机动车行驶证、登记证书>|<事件-行为-掩饰、隐瞒犯罪所得及其产生的收益>]&<事件-主体责任能力-非精神病人>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-abfa59617d5916704bb65b5a7fc4a75b> .
+
+
+<http://classiclaw.com/resource/RULE-a5771bce93e200c36f7cd9dfd0e5deaa>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则38" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "[<事件-行为-窃取>|<事件-行为-偷开>|<事件-行为-作为犯罪工具偷开并遗弃>|<事件-行为-作为犯罪工具偷开并非法占有>|<事件-行为-私自开拆邮件并窃取>|<事件-行为-窝藏、转移、收购、加工、代为销售或者以其他方法掩饰、隐瞒>|<事件-行为-盗接>|<事件-行为-盗用>|<事件-行为-复制>|<事件-行为-偷砍>|<事件-行为-使用>|<事件-行为-非法充值后使用>|<事件-行为-购买并使用>|<事件-行为-偷开油气井、油气管道等油气设备阀门>|<事件-行为-非法采种、采脂、挖笋、掘根、剥树皮>|<事件-行为-买卖、介绍买卖、典当、拍卖、抵押机动车或者用其抵债>|<事件-行为-拆解、拼装或者组装机动车>|<事件-行为-修改机动车发动机号、车辆识别代号>|<事件-行为-更改机动车车身颜色或者车辆外形>|<事件-行为-提供或者出售机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证>|<事件-行为-提供或者出售伪造、变造的机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证>|<事件-行为-违规办理机动车登记手续>|<事件-行为-指使他人违规办理机动车登记手续>|<事件-行为-违规或者指使他人违规更改、调换车辆档案>|<事件-行为-伪造、变造、买卖机动车行驶证、登记证书>|<事件-行为-掩饰、隐瞒犯罪所得及其产生的收益>]&<事件-主体责任能力-尚未完全丧失辨认或者控制自己行为能力的精神病人>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-99ab4aaaa63c3432a8af06d5ed060b30> .
+
+
+<http://classiclaw.com/resource/RULE-d67d8ab4f4c10bf22aa353e27879133c>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则39" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "[<事件-行为-窃取>|<事件-行为-偷开>|<事件-行为-作为犯罪工具偷开并遗弃>|<事件-行为-作为犯罪工具偷开并非法占有>|<事件-行为-私自开拆邮件并窃取>|<事件-行为-窝藏、转移、收购、加工、代为销售或者以其他方法掩饰、隐瞒>|<事件-行为-盗接>|<事件-行为-盗用>|<事件-行为-复制>|<事件-行为-偷砍>|<事件-行为-使用>|<事件-行为-非法充值后使用>|<事件-行为-购买并使用>|<事件-行为-偷开油气井、油气管道等油气设备阀门>|<事件-行为-非法采种、采脂、挖笋、掘根、剥树皮>|<事件-行为-买卖、介绍买卖、典当、拍卖、抵押机动车或者用其抵债>|<事件-行为-拆解、拼装或者组装机动车>|<事件-行为-修改机动车发动机号、车辆识别代号>|<事件-行为-更改机动车车身颜色或者车辆外形>|<事件-行为-提供或者出售机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证>|<事件-行为-提供或者出售伪造、变造的机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证>|<事件-行为-掩饰、隐瞒犯罪所得及其产生的收益>]&<事件-对象-对象类型-家庭成员或近亲属财物>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-6306de27746c891034b60b52f61de212> .
+
+
+<http://classiclaw.com/resource/RULE-d645920e395fedad7bbbed0eca3fe2e0>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则40" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-谅解>&<事件-主体ID>	<主体-自然人-角色-被害人>&<主体-自然人-被告人家庭成员及亲属-是>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-9a9875d34142accece69caac906059cb> .
+
+
+<http://classiclaw.com/resource/RULE-3416a75f4cea9109507cacd8e2f2aefc>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则41" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "[<事件-行为-窃取>|<事件-行为-偷开>|<事件-行为-作为犯罪工具偷开并遗弃>|<事件-行为-作为犯罪工具偷开并非法占有>|<事件-行为-私自开拆邮件并窃取>|<事件-行为-窝藏、转移、收购、加工、代为销售或者以其他方法掩饰、隐瞒>|<事件-行为-盗接>|<事件-行为-盗用>|<事件-行为-复制>|<事件-行为-偷砍>|<事件-行为-使用>|<事件-行为-非法充值后使用>|<事件-行为-购买并使用>|<事件-行为-偷开油气井、油气管道等油气设备阀门>|<事件-行为-非法采种、采脂、挖笋、掘根、剥树皮>|<事件-行为-买卖、介绍买卖、典当、拍卖、抵押机动车或者用其抵债>|<事件-行为-拆解、拼装或者组装机动车>|<事件-行为-修改机动车发动机号、车辆识别代号>|<事件-行为-更改机动车车身颜色或者车辆外形>|<事件-行为-提供或者出售机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证>|<事件-行为-提供或者出售伪造、变造的机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证>|<事件-行为-违规办理机动车登记手续>|<事件-行为-指使他人违规办理机动车登记手续>|<事件-行为-违规或者指使他人违规更改、调换车辆档案>|<事件-行为-伪造、变造、买卖机动车行驶证、登记证书>|<事件-行为-掩饰、隐瞒犯罪所得及其产生的收益>]&<事件-时间-日期-日期值>&<事件-主体ID>	<主体-自然人-角色-被告人>&<主体-自然人-出生日期>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-23fe9feebedc83f7084c33c46ad5ff0b> .
+
+
+<http://classiclaw.com/resource/RULE-a1d0c6e83f027327d8461063f4ac58a6>
+	rdf:type Law:Rule ;
+	rdfs:label "规则42" ;
+	Law:逻辑关系 "OR" ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-da27453539b757c14747f3d544b0aec2> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-40ed6c786a5a98f60338033cb70c7382> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-1d9a7b02c67f2b6f1201d7bb1e29c653> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-4cb43d611abf54a61a364d2e9e7ce3a4> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-ecd1091092e93c0ea7cba6c0ae0d0298> ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-7519ca3d760a352f99623a60f72e4757> .
+
+
+<http://classiclaw.com/resource/RULE-17e62166fc8586dfa4d1bc0e1742c08b>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则43" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-窃取>&<事件-对象-数额>&<事件-完成形态-既遂>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-a675043958e6f8fc58d00c1155185be2> .
+
+
+<http://classiclaw.com/resource/RULE-f7177163c833dff4b38fc8d2872f1ec6>
+	rdf:type Law:Rule ;
+	rdfs:label "规则44" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-c10a4e3d5843c5b071bbe75fded1dd1c> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-3ea3df82e14766d2b85e161e664d64ae> ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-d1324bb3b51099b4b05bc9797fecaa7c> .
+
+
+<http://classiclaw.com/resource/RULE-6c8349cc7260ae62e3b1396831a8398f>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则45" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-窃取>&<事件-对象-对象类型-国有馆藏一般文物>&<事件-完成形态-既遂>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-e7e0fc7f024e4c54c95b4733e7dc168a> .
+
+
+<http://classiclaw.com/resource/RULE-d9d4f495e875a2e075a1a4a6e1b9770f>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则46" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-窃取>&<事件-对象-数额>&<事件-完成形态-未遂>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-510c0b6399b85cb89cd69aa536718d30> .
+
+
+<http://classiclaw.com/resource/RULE-67c6a1e7ce56d3d6fa748ab6d9af3fd7>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则47" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-窃取>&[<事件-对象-对象类型国家馆藏三级文物>|<事件-对象-对象类型国家馆藏二级文物>]&<事件-完成形态-未遂>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-36af734251a2f3a7b4ad3798a9813c55> .
+
+
+<http://classiclaw.com/resource/RULE-642e92efb79421734881b53e1e1b18b6>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则48" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-窃取>&[<事件-特殊情况-携带枪支>|<事件-特殊情况-携带爆炸物>|<事件-特殊情况-携带管制刀具>]&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-a0d1c0fa7f7d420026825c414b7b243b> .
+
+
+<http://classiclaw.com/resource/RULE-f457c545a9ded88f18ecee47145a72c0>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则49" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-窃取>&<事件-主观方面-为了实施违法犯罪-是>&<事件-特殊情况-携带其他足以危害他人人身安全的器械>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-f1f0a5a16a2eeb1bb5bcfd7b52c820bb> .
+
+
+<http://classiclaw.com/resource/RULE-c0c7c76d30bd3dcaefc96f40275bdc0a>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则50" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-窃取>&<事件-对象-对象类型-他人随身携带的财物>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-567f2767e9bbd56eae0ae8f3454ce01e> .
+
+
+<http://classiclaw.com/resource/RULE-2838023a778dfaecdc212708f721b788>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则51" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-窃取>&[<事件-地点-场所类型-公共场所>|<事件-地点-场所类型-公共交通工具上>]&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-0a2d2c9fd12e37a8c25f2cbd3aa0bd89> .
+
+
+<http://classiclaw.com/resource/RULE-9a1158154dfa42caddbd0694a4e9bdc8>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则52" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-偷开>&<事件-对象-对象类型-机动车>&<事件-后果-车辆丢失>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-19ee03f2be4571ab85f2916c933e54a7> .
+
+
+<http://classiclaw.com/resource/RULE-d82c8d1619ad8176d665453cfb2e55f0>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则53" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-作为犯罪工具偷开并非法占有>&<事件-对象-对象类型-机动车>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-31ca9fe1f7a37b3482974621fc71fe82> .
+
+
+<http://classiclaw.com/resource/RULE-a684eceee76fc522773286a895bc8436>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则54" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-作为犯罪工具偷开并遗弃>&<事件-对象-对象类型-机动车>&<事件-后果-车辆丢失>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-f55a9cf1ca6106a0b6a0af1b60208628> .
+
+
+<http://classiclaw.com/resource/RULE-b53b3a3d6ab90ce0268229151c9bde11>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则55" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-窃取>&<事件-对象-对象类型-石油、天然气>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-d26bac569c76162fe45bd90f36d6b101> .
+
+
+<http://classiclaw.com/resource/RULE-9f61408e3afb633e50cdf1b20de6f466>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则56" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-窃取>&<事件-对象-对象类型-正在使用的油气设备>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-b6cabc2ad24a9a193255f1ecf3faa447> .
+
+
+<http://classiclaw.com/resource/RULE-72b32a1f754ba1c09b3695e0cb6cde7f>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则57" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-偷开油气井、油气管道等油气设备阀门>&<事件-主观方面-为他人盗窃油气-是>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-a2a90eab0db515686cdf5a4c91138c8b> .
+
+
+<http://classiclaw.com/resource/RULE-66f041e16a60928b05a7e228a89c3799>
+	rdf:type Law:Rule ;
+	rdfs:label "规则58" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-84acc2ab3a821df1b098bbcc8db81676> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-61574803a94a32405c8c55b7634085d1> ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-8a1b9200eaa5ab778c375dc5b583173d> .
+
+
+<http://classiclaw.com/resource/RULE-093f65e080a295f8076b1c5722a46aa2>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则59" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-盗接>&<事件-对象-对象类型-他人通信线路>&<事件-主观方面-以牟利为目的-是>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-26d97bae53efc5f587bad7d48f676905> .
+
+
+<http://classiclaw.com/resource/RULE-072b030ba126b2f4b2374f342be9ed44>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则60" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-复制>&<事件-对象-对象类型-他人电信码号>&<事件-主观方面-以牟利为目的-是>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-643e25bc00b1fb2f2212393208c90401> .
+
+
+<http://classiclaw.com/resource/RULE-7f39f8317fbdb1988ef4c628eba02591>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则61" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-使用>&<事件-对象-对象类型-电信设备设施>&<事件-主观方面-明知是盗接、复制的电信设备、设施-是>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-d42ffef08b90c67dfa51158add8d6758> .
+
+
+<http://classiclaw.com/resource/RULE-44f683a84163b3523afe57c2e008bc8c>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则62" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-非法充值后使用>&<事件-对象-对象类型-电信卡>&<事件-后果-电信资费损失数额较大>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-8f78f211e57bd69f0abb4d3779422346> .
+
+
+<http://classiclaw.com/resource/RULE-03afdbd66e7929b125f8597834fa83a4>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则63" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-盗用>&<事件-对象-对象类型-他人公共信息网络上网账号、密码>&<事件-后果-电信资费损失数额较大>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-d923aaa0129004e34932730b6dd3edce> .
+
+
+<http://classiclaw.com/resource/RULE-ea5d2f1c4608232e07d3aa3d998e5135>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则64" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-窃取>&<事件-对象-对象类型-公用电信设施>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-cc77ef2c003c6e09e43c4fca7a839b8d> .
+
+
+<http://classiclaw.com/resource/RULE-fc490ca45c00b1249bbe3554a4fdf6fb>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则65" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-购买并使用>&<事件-主观方面-明知是非法制作的IC电话卡-是>&<事件-后果-电信资费损失数额较大>&<事件-对象-对象类型-IC电话卡>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-16f15900dea6148efb55cea16e49c4b5> .
+
+
+<http://classiclaw.com/resource/RULE-3295c76acbf4caaed33c36b1b5fc2cb1>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则66" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-使用>&<事件-主观方面-明知是非法制作的IC电话卡>&<事件-后果-电信资费损失数额较大>&<事件-对象-对象类型-IC电话卡>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-924701ffcaf008f6bbc2fddcf15af2ac> .
+
+
+<http://classiclaw.com/resource/RULE-735b90b4568125ed6c3f678819b6e058>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则67" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-非法采种、采脂、挖笋、掘根、剥树皮>&<事件-后果-牟取经济利益数额较大>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-c77e6928873994b3c5db13f3235f0248> .
+
+
+<http://classiclaw.com/resource/RULE-a3f390d88e4c41f2747bfa2f1b5f87db>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则68" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-窃取>&<事件-对象-数额>&<事件-对象-对象类型-国家、集体、他人所有并已经伐倒的树木>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-efca88875ce69cfeb52f5dc3a846fbe1> .
+
+
+<http://classiclaw.com/resource/RULE-14bfa6bb14875e45bba028a21ed38046>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则69" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-偷砍>&<事件-对象-数额>&<事件-对象-对象类型-他人房前屋后、自留地种植的零星树木>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-d325b5d7f751908aaf3b4a4d32f7f004> .
+
+
+<http://classiclaw.com/resource/RULE-7cbbc409ec990f19c78c75bd1e06f215>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则70" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-通谋>&<事件-时间-日期-日期值>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-9baf9d539aaac93372bd70c1a06bf024> .
+
+
+<http://classiclaw.com/resource/RULE-e2c420d928d4bf8ce0ff2ec19b371514>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则71" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-主观方面-明知是犯罪所得-是>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-76d068de9e4bf3b62df71b683e8fe454> .
+
+
+<http://classiclaw.com/resource/RULE-32bb90e8976aab5298d5da10fe66f21d>
+	rdf:type Law:Rule ;
+	rdfs:label "规则72" ;
+	Law:逻辑关系 "OR" ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-ae143838eb9ebf01ee73ca33aaafecab> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-88fd457e5f1ba9cd0c6e08eaa0bebbf3> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-92aafe00be0ccba63c5079bda163e586> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-8d0b75f9795b34f46f6e7852e39c5d68> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-41c0a37bdf59115f4dcb411f11092e76> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-7c285523278f776918f5ad5391dc7f3f> ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-671f471343d06d43b304e78e492d0818> .
+
+
+<http://classiclaw.com/resource/RULE-d2ddea18f00665ce8623e36bd4e3c7c5>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则73" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-主体ID>	<主体-自然人-角色-被告人>&<主体-自然人-职业-国家机关工作人员>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-8038ec96326831b57ae8809cf3da8664> .
+
+
+<http://classiclaw.com/resource/RULE-ad61ab143223efbc24c7d2583be69251>
+	rdf:type Law:Rule ;
+	rdfs:label "规则74" ;
+	Law:逻辑关系 "OR" ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-f6f4b924b4b06877ae0d934ea23ab14e> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-dc6340d383156af3f3c93443f1e60079> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-bef133bad32935beaef5e42202aea86e> ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-33ada4d549e337afd8e56b2dfa656bd0> .
+
+
+<http://classiclaw.com/resource/RULE-d09bf41544a3365a46c9077ebb5e35c3>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则75" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-后果-被办理登记的机动车数量达到三辆以上或者价值总额达到三十万元以上>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-ae6be8e77345007c12c270441430106d> .
+
+
+<http://classiclaw.com/resource/RULE-fbd7939d674997cdb4692d34de8633c4>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则76" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-通谋>&<事件-时间-日期-日期值>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-c855df12bacbb6fa94e7279e2035e924> .
+
+
+<http://classiclaw.com/resource/RULE-28dd2c7955ce926456240b2ff0100bde>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则77" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-伪造、变造、买卖机动车行驶证、登记证书>&<事件-后果-累计三本机动车行驶证、登记证以上>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-25774f31a688111a9e1e720541442e70> .
+
+
+<http://classiclaw.com/resource/RULE-35f4a8d465e6e1edc05f3d8ab658c551>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则78" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-掩饰、隐瞒犯罪所得及其产生的收益>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-a7d86e00edabeb7fba77dd940820f601> .
+
+
+<http://classiclaw.com/resource/RULE-d1fe173d08e959397adf34b1d77e88d7>
+	rdf:type Law:Rule ;
+	rdfs:label "规则79" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-bf356089e34d43d0887e029fbf908018> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-8a26c531deca7b403e5391d02ed7eb79> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-3ffa33ab23cafe2e727d16717672a871> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-abcef8ece6583c876a89988c6f6d007b> ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-0230023828c41674488928e2371e24c2> .
+
+
+<http://classiclaw.com/resource/RULE-f033ab37c30201f73f142449d037028d>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则80" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "[<事件-行为-窃取>|<事件-行为-偷开>|<事件-行为-作为犯罪工具偷开并遗弃>|<事件-行为-作为犯罪工具偷开并非法占有>|<事件-行为-私自开拆邮件并窃取>|<事件-行为-窝藏、转移、收购、加工、代为销售或者以其他方法掩饰、隐瞒>|<事件-行为-盗接>|<事件-行为-盗用>|<事件-行为-复制>|<事件-行为-偷砍>|<事件-行为-使用>|<事件-行为-非法充值后使用>|<事件-行为-购买并使用>|<事件-行为-偷开油气井、油气管道等油气设备阀门>|<事件-行为-非法采种、采脂、挖笋、掘根、剥树皮>|<事件-行为-买卖、介绍买卖、典当、拍卖、抵押机动车或者用其抵债>|<事件-行为-拆解、拼装或者组装机动车>|<事件-行为-修改机动车发动机号、车辆识别代号>|<事件-行为-更改机动车车身颜色或者车辆外形>|<事件-行为-提供或者出售机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证>|<事件-行为-提供或者出售伪造、变造的机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证>|<事件-行为-违规办理机动车登记手续>|<事件-行为-指使他人违规办理机动车登记手续>|<事件-行为-违规或者指使他人违规更改、调换车辆档案>|<事件-行为-伪造、变造、买卖机动车行驶证、登记证书>|<事件-行为-掩饰、隐瞒犯罪所得及其产生的收益>]&[<事件-完成形态-未遂实行终了> |<事件-完成形态-未遂未实行终了>]&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-40ed6c786a5a98f60338033cb70c7382> .
+
+
+<http://classiclaw.com/resource/RULE-43ec517d68b6edd3015b3edc9a11367b>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则81" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "[<事件-行为-窃取>|<事件-行为-偷开>|<事件-行为-作为犯罪工具偷开并遗弃>|<事件-行为-作为犯罪工具偷开并非法占有>|<事件-行为-私自开拆邮件并窃取>|<事件-行为-窝藏、转移、收购、加工、代为销售或者以其他方法掩饰、隐瞒>|<事件-行为-盗接>|<事件-行为-盗用>|<事件-行为-复制>|<事件-行为-偷砍>|<事件-行为-使用>|<事件-行为-非法充值后使用>|<事件-行为-购买并使用>|<事件-行为-偷开油气井、油气管道等油气设备阀门>|<事件-行为-非法采种、采脂、挖笋、掘根、剥树皮>|<事件-行为-买卖、介绍买卖、典当、拍卖、抵押机动车或者用其抵债>|<事件-行为-拆解、拼装或者组装机动车>|<事件-行为-修改机动车发动机号、车辆识别代号>|<事件-行为-更改机动车车身颜色或者车辆外形>|<事件-行为-提供或者出售机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证>|<事件-行为-提供或者出售伪造、变造的机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证>|<事件-行为-违规办理机动车登记手续>|<事件-行为-指使他人违规办理机动车登记手续>|<事件-行为-违规或者指使他人违规更改、调换车辆档案>|<事件-行为-伪造、变造、买卖机动车行驶证、登记证书>|<事件-行为-掩饰、隐瞒犯罪所得及其产生的收益>]&<事件-完成形态-中止>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-1d9a7b02c67f2b6f1201d7bb1e29c653> .
+
+
+<http://classiclaw.com/resource/RULE-9778d5d219c5080b9a6a17bef029331c>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则82" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "[<事件-行为-窃取>|<事件-行为-偷开>|<事件-行为-作为犯罪工具偷开并遗弃>|<事件-行为-作为犯罪工具偷开并非法占有>|<事件-行为-私自开拆邮件并窃取>|<事件-行为-窝藏、转移、收购、加工、代为销售或者以其他方法掩饰、隐瞒>|<事件-行为-盗接>|<事件-行为-盗用>|<事件-行为-复制>|<事件-行为-偷砍>|<事件-行为-使用>|<事件-行为-非法充值后使用>|<事件-行为-购买并使用>|<事件-行为-偷开油气井、油气管道等油气设备阀门>|<事件-行为-非法采种、采脂、挖笋、掘根、剥树皮>|<事件-行为-买卖、介绍买卖、典当、拍卖、抵押机动车或者用其抵债>|<事件-行为-拆解、拼装或者组装机动车>|<事件-行为-修改机动车发动机号、车辆识别代号>|<事件-行为-更改机动车车身颜色或者车辆外形>|<事件-行为-提供或者出售机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证>|<事件-行为-提供或者出售伪造、变造的机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证>|<事件-行为-违规办理机动车登记手续>|<事件-行为-指使他人违规办理机动车登记手续>|<事件-行为-违规或者指使他人违规更改、调换车辆档案>|<事件-行为-伪造、变造、买卖机动车行驶证、登记证书>|<事件-行为-掩饰、隐瞒犯罪所得及其产生的收益>]&<事件-对象-对象类型-家庭成员或近亲属财物>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-4cb43d611abf54a61a364d2e9e7ce3a4> .
+
+
+<http://classiclaw.com/resource/RULE-fe9fc289c3ff0af142b6d3bead98a923>
+	rdf:type Law:Rule ;
+	rdfs:label "规则83" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-4ef5d41cfecf6704379216654984e4c0> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-ac782c466dc77aeee96a6dec2c7fb7bd> ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-0b84c1075c7e7f790f43875b3b26c411> .
+
+
+<http://classiclaw.com/resource/RULE-68d30a9594728bc39aa24be94b319d21>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则84" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-窃取>&<事件-对象-数额>&<事件-完成形态-既遂>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-c10a4e3d5843c5b071bbe75fded1dd1c> .
+
+
+<http://classiclaw.com/resource/RULE-3ef815416f775098fe977004015c6193>
+	rdf:type Law:Rule ;
+	rdfs:label "规则85" ;
+	Law:逻辑关系 "OR" ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-fbeba914f5243548cb749698ecec2478> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-1175a955984003da65b2d596b34bb2f9> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-d53a3561965e6ee8d201f3dd199b281d> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-4d734e0337e107dd8e1eff355fc468f2> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-1db45152faedc1894248df78f02d1cb4> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-88d5dca8179f2378e00fe733818326f9> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-32ac30e07691b815d0b85d4603aa3459> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-dae9d67d76cf8e599559ef69d2f70cc9> ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-ec14fdce216296fb07266c02b6abed33> .
+
+
+<http://classiclaw.com/resource/RULE-93db85ed909c13838ff95ccfa94cebd9>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则86" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-窝藏、转移、收购、加工、代为销售或者以其他方法掩饰、隐瞒>&<事件-主观方面-明知是犯罪所得-是>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-84acc2ab3a821df1b098bbcc8db81676> .
+
+
+<http://classiclaw.com/resource/RULE-c7e1249ffc03eb9ded908c236bd1996d>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则87" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "{<事件-行为-通谋>&<事件-时间-日期-日期值>&<事件-主体ID>}{<事件-行为-窝藏、转移、收购、加工、代为销售或者以其他方法掩饰、隐瞒>&<事件-时间-日期-日期值>&<事件-主体ID>}	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-61574803a94a32405c8c55b7634085d1> .
+
+
+<http://classiclaw.com/resource/RULE-2a38a4a9316c49e5a833517c45d31070>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则88" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-买卖、介绍买卖、典当、拍卖、抵押机动车或者用其抵债>&<事件-对象-对象类型-机动车>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-ae143838eb9ebf01ee73ca33aaafecab> .
+
+
+<http://classiclaw.com/resource/RULE-7647966b7343c29048673252e490f736>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则89" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-拆解、拼装或者组装机动车>&<事件-对象-对象类型-机动车>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-88fd457e5f1ba9cd0c6e08eaa0bebbf3> .
+
+
+<http://classiclaw.com/resource/RULE-8613985ec49eb8f757ae6439e879bb2a>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则90" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-修改机动车发动机号、车辆识别代号>&<事件-对象-对象类型-机动车>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-92aafe00be0ccba63c5079bda163e586> .
+
+
+<http://classiclaw.com/resource/RULE-54229abfcfa5649e7003b83dd4755294>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则91" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-更改机动车车身颜色或者车辆外形>&<事件-对象-对象类型-机动车>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-8d0b75f9795b34f46f6e7852e39c5d68> .
+
+
+<http://classiclaw.com/resource/RULE-92cc227532d17e56e07902b254dfad10>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则92" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-提供或者出售机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证>&<事件-对象-对象类型-机动车>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-41c0a37bdf59115f4dcb411f11092e76> .
+
+
+<http://classiclaw.com/resource/RULE-98dce83da57b0395e163467c9dae521b>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则93" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-提供或者出售伪造、变造的机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证>&<事件-对象-对象类型-机动车>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-7c285523278f776918f5ad5391dc7f3f> .
+
+
+<http://classiclaw.com/resource/RULE-f4b9ec30ad9f68f89b29639786cb62ef>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则94" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-违规办理机动车登记手续>&<事件-主观方面-明知是登记手续不全或者不符合规定的机动车-是>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-f6f4b924b4b06877ae0d934ea23ab14e> .
+
+
+<http://classiclaw.com/resource/RULE-812b4ba287f5ee0bc9d43bbf5bbe87fb>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则95" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-指使他人违规办理机动车登记手续>&<事件-主观方面-明知是登记手续不全或者不符合规定的机动车-是>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-dc6340d383156af3f3c93443f1e60079> .
+
+
+<http://classiclaw.com/resource/RULE-26657d5ff9020d2abefe558796b99584>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则96" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-违规或者指使他人违规更改、调换车辆档案>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-bef133bad32935beaef5e42202aea86e> .
+
+
+<http://classiclaw.com/resource/RULE-e2ef524fbf3d9fe611d5a8e90fefdc9c>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则97" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "[<事件-行为-窃取>|<事件-行为-偷开>|<事件-行为-作为犯罪工具偷开并遗弃>|<事件-行为-作为犯罪工具偷开并非法占有>|<事件-行为-私自开拆邮件并窃取>|<事件-行为-窝藏、转移、收购、加工、代为销售或者以其他方法掩饰、隐瞒>|<事件-行为-盗接>|<事件-行为-盗用>|<事件-行为-复制>|<事件-行为-偷砍>|<事件-行为-使用>|<事件-行为-非法充值后使用>|<事件-行为-购买并使用>|<事件-行为-偷开油气井、油气管道等油气设备阀门>|<事件-行为-非法采种、采脂、挖笋、掘根、剥树皮>|<事件-行为-买卖、介绍买卖、典当、拍卖、抵押机动车或者用其抵债>|<事件-行为-拆解、拼装或者组装机动车>|<事件-行为-修改机动车发动机号、车辆识别代号>|<事件-行为-更改机动车车身颜色或者车辆外形>|<事件-行为-提供或者出售机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证>|<事件-行为-提供或者出售伪造、变造的机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证>|<事件-行为-违规办理机动车登记手续>|<事件-行为-指使他人违规办理机动车登记手续>|<事件-行为-违规或者指使他人违规更改、调换车辆档案>|<事件-行为-伪造、变造、买卖机动车行驶证、登记证书>|<事件-行为-掩饰、隐瞒犯罪所得及其产生的收益>]&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-bf356089e34d43d0887e029fbf908018> .
+
+
+<http://classiclaw.com/resource/RULE-ed3d2c21991e3bef5e069713af9fa6ca>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则98" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-如实供述>&<事件-事件阶段-案发后>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-8a26c531deca7b403e5391d02ed7eb79> .
+
+
+<http://classiclaw.com/resource/RULE-ac627ab1ccbdb62ec96e702f07f6425b>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则99" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-退赃退赔>&<事件-事件阶段-案发后>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-3ffa33ab23cafe2e727d16717672a871> .
+
+
+<http://classiclaw.com/resource/RULE-f899139df5e1059396431415e770c6dd>
+	rdf:type Law:Rule ;
+	rdfs:label "规则100" ;
+	Law:逻辑关系 "OR" ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-ae6aa2e7cf92f9b26d69e778958ce0c5> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-c4f69b7bf3f79f23c3c14b71942c1d72> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-21c8289a86817fd98b7a91feb488a171> ;
+	Law:前提 <http://classiclaw.com/resource/FACTOR-2d267171a8a3a6271685b5fe8648156d> ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-262a6d0c1ee45cc72c77386c413d93fb> .
+
+
+<http://classiclaw.com/resource/RULE-38b3eff8baf56627478ec76a704e9b52>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则101" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "[<事件-行为-窃取>|<事件-行为-偷开>|<事件-行为-作为犯罪工具偷开并遗弃>|<事件-行为-作为犯罪工具偷开并非法占有>|<事件-行为-私自开拆邮件并窃取>|<事件-行为-窝藏、转移、收购、加工、代为销售或者以其他方法掩饰、隐瞒>|<事件-行为-盗接>|<事件-行为-盗用>|<事件-行为-复制>|<事件-行为-偷砍>|<事件-行为-使用>|<事件-行为-非法充值后使用>|<事件-行为-购买并使用>|<事件-行为-偷开油气井、油气管道等油气设备阀门>|<事件-行为-非法采种、采脂、挖笋、掘根、剥树皮>|<事件-行为-买卖、介绍买卖、典当、拍卖、抵押机动车或者用其抵债>|<事件-行为-拆解、拼装或者组装机动车>|<事件-行为-修改机动车发动机号、车辆识别代号>|<事件-行为-更改机动车车身颜色或者车辆外形>|<事件-行为-提供或者出售机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证>|<事件-行为-提供或者出售伪造、变造的机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证>|<事件-行为-掩饰、隐瞒犯罪所得及其产生的收益>]&<事件-对象-对象类型-其他亲属财物>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-4ef5d41cfecf6704379216654984e4c0> .
+
+
+<http://classiclaw.com/resource/RULE-ec8956637a99787bd197eacd77acce5e>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则102" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-不予追究>&<事件-主体ID>	<主体-自然人-角色-被害人>&<主体-自然人-被告人其他亲属-是>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-ac782c466dc77aeee96a6dec2c7fb7bd> .
+
+
+<http://classiclaw.com/resource/RULE-6974ce5ac660610b44d9b9fed0ff9548>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则103" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "{<事件-主体ID>&<事件-行为-窃取>&<事件-时间-日期-日期值>}&{<事件-主体ID>&<事件-行为-因盗窃受刑事处罚>&<事件-时间-日期-日期值>}	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-fbeba914f5243548cb749698ecec2478> .
+
+
+<http://classiclaw.com/resource/RULE-c9e1074f5b3f9fc8ea15d152add07294>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则104" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "{<事件-主体ID>&<事件-行为-窃取>&<事件-时间-日期-日期值>}&{<事件-主体ID>&<事件-行为-因盗窃受行政处罚>&<事件-时间-日期-日期值>}	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-1175a955984003da65b2d596b34bb2f9> .
+
+
+<http://classiclaw.com/resource/RULE-65b9eea6e1cc6bb9f0cd2a47751a186f>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则105" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-窃取>&<事件-特殊情况-组织、控制未成年人盗窃>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-d53a3561965e6ee8d201f3dd199b281d> .
+
+
+<http://classiclaw.com/resource/RULE-f0935e4cd5920aa6c7c996a5ee53a70f>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则106" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-窃取>&<事件-地点-场所类型-自然灾害、事故灾害、社会安全事件等突发事件期间的事件发生地>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-4d734e0337e107dd8e1eff355fc468f2> .
+
+
+<http://classiclaw.com/resource/RULE-a97da629b098b75c294dffdc3e463904>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则107" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-窃取>&<事件-相对人ID>	<主体-自然人-角色-被害人>&[<主体-自然人-孤寡老人-是>|<主体-自然人-残疾人-是>|<主体-自然人-丧失劳动能力的人-是>]" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-1db45152faedc1894248df78f02d1cb4> .
+
+
+<http://classiclaw.com/resource/RULE-a3c65c2974270fd093ee8a9bf8ae7d0b>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则108" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-窃取>&<事件-相对人ID>	<主体-自然人-角色-被害人>&<主体-自然人-病人及其亲友-是>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-88d5dca8179f2378e00fe733818326f9> .
+
+
+<http://classiclaw.com/resource/RULE-2723d092b63885e0d7c260cc007e8b9d>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则109" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-窃取>&<事件-对象-对象类型-救灾、抢险、防汛、优抚、扶贫、移民、救济款物>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-32ac30e07691b815d0b85d4603aa3459> .
+
+
+<http://classiclaw.com/resource/RULE-5f93f983524def3dca464469d2cf9f3e>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则110" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "<事件-行为-窃取>&<事件-后果-造成严重后果>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-dae9d67d76cf8e599559ef69d2f70cc9> .
+
+
+<http://classiclaw.com/resource/RULE-698d51a19d8a121ce581499d7b701668>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则111" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "[<事件-行为-窃取>|<事件-行为-偷开>|<事件-行为-作为犯罪工具偷开并遗弃>|<事件-行为-作为犯罪工具偷开并非法占有>|<事件-行为-私自开拆邮件并窃取>|<事件-行为-窝藏、转移、收购、加工、代为销售或者以其他方法掩饰、隐瞒>|<事件-行为-盗接>|<事件-行为-盗用>|<事件-行为-复制>|<事件-行为-偷砍>|<事件-行为-使用>|<事件-行为-非法充值后使用>|<事件-行为-购买并使用>|<事件-行为-偷开油气井、油气管道等油气设备阀门>|<事件-行为-非法采种、采脂、挖笋、掘根、剥树皮>|<事件-行为-买卖、介绍买卖、典当、拍卖、抵押机动车或者用其抵债>|<事件-行为-拆解、拼装或者组装机动车>|<事件-行为-修改机动车发动机号、车辆识别代号>|<事件-行为-更改机动车车身颜色或者车辆外形>|<事件-行为-提供或者出售机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证>|<事件-行为-提供或者出售伪造、变造的机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证>|<事件-行为-违规办理机动车登记手续>|<事件-行为-指使他人违规办理机动车登记手续>|<事件-行为-违规或者指使他人违规更改、调换车辆档案>|<事件-行为-伪造、变造、买卖机动车行驶证、登记证书>|<事件-行为-掩饰、隐瞒犯罪所得及其产生的收益>]&<事件-主体ID>	<主体-自然人-角色-被告人>&<主体-自然人-聋-是>&<主体-自然人-哑-是>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-ae6aa2e7cf92f9b26d69e778958ce0c5> .
+
+
+<http://classiclaw.com/resource/RULE-7f6ffaa6bb0b408017b62254211691b5>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则112" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "[<事件-行为-窃取>|<事件-行为-偷开>|<事件-行为-作为犯罪工具偷开并遗弃>|<事件-行为-作为犯罪工具偷开并非法占有>|<事件-行为-私自开拆邮件并窃取>|<事件-行为-窝藏、转移、收购、加工、代为销售或者以其他方法掩饰、隐瞒>|<事件-行为-盗接>|<事件-行为-盗用>|<事件-行为-复制>|<事件-行为-偷砍>|<事件-行为-使用>|<事件-行为-非法充值后使用>|<事件-行为-购买并使用>|<事件-行为-偷开油气井、油气管道等油气设备阀门>|<事件-行为-非法采种、采脂、挖笋、掘根、剥树皮>|<事件-行为-买卖、介绍买卖、典当、拍卖、抵押机动车或者用其抵债>|<事件-行为-拆解、拼装或者组装机动车>|<事件-行为-修改机动车发动机号、车辆识别代号>|<事件-行为-更改机动车车身颜色或者车辆外形>|<事件-行为-提供或者出售机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证>|<事件-行为-提供或者出售伪造、变造的机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证>|<事件-行为-违规办理机动车登记手续>|<事件-行为-指使他人违规办理机动车登记手续>|<事件-行为-违规或者指使他人违规更改、调换车辆档案>|<事件-行为-伪造、变造、买卖机动车行驶证、登记证书>|<事件-行为-掩饰、隐瞒犯罪所得及其产生的收益>]&<事件-主体ID>	<主体-自然人-角色-被告人>&<主体-自然人-盲-是>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-c4f69b7bf3f79f23c3c14b71942c1d72> .
+
+
+<http://classiclaw.com/resource/RULE-73278a4a86960eeb576a8fd4c9ec6997>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则113" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "[<事件-行为-窃取>|<事件-行为-偷开>|<事件-行为-作为犯罪工具偷开并遗弃>|<事件-行为-作为犯罪工具偷开并非法占有>|<事件-行为-私自开拆邮件并窃取>|<事件-行为-窝藏、转移、收购、加工、代为销售或者以其他方法掩饰、隐瞒>|<事件-行为-盗接>|<事件-行为-盗用>|<事件-行为-复制>|<事件-行为-偷砍>|<事件-行为-使用>|<事件-行为-非法充值后使用>|<事件-行为-购买并使用>|<事件-行为-偷开油气井、油气管道等油气设备阀门>|<事件-行为-非法采种、采脂、挖笋、掘根、剥树皮>|<事件-行为-买卖、介绍买卖、典当、拍卖、抵押机动车或者用其抵债>|<事件-行为-拆解、拼装或者组装机动车>|<事件-行为-修改机动车发动机号、车辆识别代号>|<事件-行为-更改机动车车身颜色或者车辆外形>|<事件-行为-提供或者出售机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证>|<事件-行为-提供或者出售伪造、变造的机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证>|<事件-行为-违规办理机动车登记手续>|<事件-行为-指使他人违规办理机动车登记手续>|<事件-行为-违规或者指使他人违规更改、调换车辆档案>|<事件-行为-伪造、变造、买卖机动车行驶证、登记证书>|<事件-行为-掩饰、隐瞒犯罪所得及其产生的收益>]&<事件-特殊情况-共同犯罪中起次要、辅助作用>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-21c8289a86817fd98b7a91feb488a171> .
+
+
+<http://classiclaw.com/resource/RULE-5fd0b37cd7dbbb00f97ba6ce92bf5add>
+	rdf:type Law:AtomicRule ;
+	rdfs:label "规则114" ;
+	Law:逻辑关系 "AND" ;
+	Law:前提 "[<事件-行为-窃取>|<事件-行为-偷开>|<事件-行为-作为犯罪工具偷开并遗弃>|<事件-行为-作为犯罪工具偷开并非法占有>|<事件-行为-私自开拆邮件并窃取>|<事件-行为-窝藏、转移、收购、加工、代为销售或者以其他方法掩饰、隐瞒>|<事件-行为-盗接>|<事件-行为-盗用>|<事件-行为-复制>|<事件-行为-偷砍>|<事件-行为-使用>|<事件-行为-非法充值后使用>|<事件-行为-购买并使用>|<事件-行为-偷开油气井、油气管道等油气设备阀门>|<事件-行为-非法采种、采脂、挖笋、掘根、剥树皮>|<事件-行为-买卖、介绍买卖、典当、拍卖、抵押机动车或者用其抵债>|<事件-行为-拆解、拼装或者组装机动车>|<事件-行为-修改机动车发动机号、车辆识别代号>|<事件-行为-更改机动车车身颜色或者车辆外形>|<事件-行为-提供或者出售机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证>|<事件-行为-提供或者出售伪造、变造的机动车来历凭证、整车合格证、号牌以及有关机动车的其他证明和凭证>|<事件-行为-违规办理机动车登记手续>|<事件-行为-指使他人违规办理机动车登记手续>|<事件-行为-违规或者指使他人违规更改、调换车辆档案>|<事件-行为-伪造、变造、买卖机动车行驶证、登记证书>|<事件-行为-掩饰、隐瞒犯罪所得及其产生的收益>]&<事件-特殊情况-共同犯罪中被胁迫>&<事件-主体ID>	<主体-自然人-角色-被告人>" ;
+	Law:结论 <http://classiclaw.com/resource/FACTOR-2d267171a8a3a6271685b5fe8648156d> .
+
+
